@@ -56,6 +56,10 @@
       <th>Value</th>
     </tr>
     <tr>
+      <td>Start</td>
+      <td id="start"></td>
+    </tr>    
+    <tr>
       <td>Epoch</td>
       <td id="epoch"></td>
     </tr>
@@ -107,6 +111,7 @@
             }
 
             // Update table cells with JSON data and calculated value
+            document.getElementById('start').textContent = formatDate(jsonData.Start);
             document.getElementById('epoch').textContent = formatDate(jsonData.Epoch);
             document.getElementById('batch-tasks').textContent = jsonData.BatchTasks;
             document.getElementById('batch-tasks-completed').textContent = jsonData.BatchTasksCompleted;
