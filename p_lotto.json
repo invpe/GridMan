@@ -1,9 +1,9 @@
 {
-"Epoch": 1714572266,
+"Epoch": 1714572864,
 "BatchTasks": 15,
-"BatchTasksCompleted": 0,
-"TotalBatches": 269,
-"TotalTasksCompleted": 450,
+"BatchTasksCompleted": 1,
+"TotalBatches": 290,
+"TotalTasksCompleted": 460,
 "TaskIterations": 3000000,
 "Found": 0
 }
