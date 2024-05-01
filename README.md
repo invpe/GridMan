@@ -26,4 +26,23 @@ The GridMan GitHub page showcases the latest update of the project's status, pro
 
 In the context of this lottery, a batch refers to a collection of jobs (tasks) initiated whenever a pool provides a new dataset. Upon receipt of new data, any existing jobs are terminated, and a fresh batch of tasks is distributed containing the latest mining details.
 
+# 📜 INSIDE
+
+A dump of a task being executed on one of the nodes:
+
+```
+2024-05-01 15:03:30 [INF] Accepted and Starting Task 6051 Binary size 51952 Payload size 1588
+2024-05-01 15:03:30 [INF] Starting binary GM_1714469720bin with argument GM_1714469720payload
+Started with payload: /tmp/GM_1714469720payload
+[INFO] Going 3000000 combinations, fingers crossed.
+[INFO] We're doing 309717 combinations per second
+[INFO] We're doing 562883 combinations per second
+[INFO] We're doing 500924 combinations per second
+[INFO] We're doing 499022 combinations per second
+[INFO] We're doing 497139 combinations per second
+[INFO] We're doing 502230 combinations per second
+2024-05-01 15:03:42 [INF] Task Completed with code 0
+2024-05-01 15:03:42 [INF] Finished Task
+2024-05-01 15:03:42 [INF] Sending Payload back to Server
+```
 
