@@ -1,12 +1,109 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My GitHub Page</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JSON Data Presentation</title>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Montserrat', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f0f3f8; /* Light blueish gray */
+    }
+    .container {
+      max-width: 600px;
+      margin: 50px auto;
+      padding: 30px;
+      background-color: #fff;
+      border-radius: 10px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+    h1 {
+      text-align: center;
+      color: #333;
+      margin-bottom: 20px;
+      font-weight: 700;
+    }
+    .data-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+    }
+    .data-table th,
+    .data-table td {
+      padding: 15px;
+      border-bottom: 1px solid #d9e2ef; /* Light blueish gray */
+      text-align: left;
+      font-weight: 400;
+    }
+    .data-table th {
+      background-color: #e6f0fb; /* Light blue */
+    }
+    .data-table td:nth-child(2n) {
+      background-color: #f6f9fd; /* Very light blue */
+    }
+  </style>
 </head>
 <body>
-    <h1>Welcome to My GitHub Page!</h1>
-    <p>This is a sample webpage hosted on GitHub Pages.</p>
+
+<div class="container">
+  <h1>JSON Data</h1>
+  <table class="data-table">
+    <tr>
+      <th>Field</th>
+      <th>Value</th>
+    </tr>
+    <tr>
+      <td>Epoch</td>
+      <td id="epoch"></td>
+    </tr>
+    <tr>
+      <td>BatchTasks</td>
+      <td id="batch-tasks"></td>
+    </tr>
+    <tr>
+      <td>BatchTasksCompleted</td>
+      <td id="batch-tasks-completed"></td>
+    </tr>
+    <tr>
+      <td>TotalBatches</td>
+      <td id="total-batches"></td>
+    </tr>
+    <tr>
+      <td>TotalTasksCompleted</td>
+      <td id="total-tasks-completed"></td>
+    </tr>
+    <tr>
+      <td>TaskIterations</td>
+      <td id="task-iterations"></td>
+    </tr>
+    <tr>
+      <td>Found</td>
+      <td id="found"></td>
+    </tr>
+  </table>
+</div>
+
+<script>
+  // Fetch JSON data from URL
+  fetch('https://raw.githubusercontent.com/invpe/GridMan/main/current.json')
+    .then(response => response.json())
+    .then(jsonData => {
+      // Update table cells with JSON data
+      document.getElementById('epoch').textContent = jsonData.Epoch;
+      document.getElementById('batch-tasks').textContent = jsonData.BatchTasks;
+      document.getElementById('batch-tasks-completed').textContent = jsonData.BatchTasksCompleted;
+      document.getElementById('total-batches').textContent = jsonData.TotalBatches;
+      document.getElementById('total-tasks-completed').textContent = jsonData.TotalTasksCompleted;
+      document.getElementById('task-iterations').textContent = jsonData.TaskIterations;
+      document.getElementById('found').textContent = jsonData.Found;
+    })
+    .catch(error => {
+      console.error('Error fetching JSON:', error);
+    });
+</script>
+
 </body>
 </html>
