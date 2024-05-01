@@ -80,6 +80,10 @@
       <td id="task-iterations"></td>
     </tr>
     <tr>
+      <td>Total Iterations made</td>
+      <td id="total-iterations"></td>
+    </tr>
+    <tr>
       <td>Found</td>
       <td id="found"></td>
     </tr>
@@ -87,23 +91,43 @@
 </div>
 
 <script>
-  // Fetch JSON data from URL
-  fetch('https://raw.githubusercontent.com/invpe/GridMan/main/p_lotto.json')
-    .then(response => response.json())
-    .then(jsonData => {
-      // Update table cells with JSON data
-      document.getElementById('epoch').textContent = jsonData.Epoch;
-      document.getElementById('batch-tasks').textContent = jsonData.BatchTasks;
-      document.getElementById('batch-tasks-completed').textContent = jsonData.BatchTasksCompleted;
-      document.getElementById('total-batches').textContent = jsonData.TotalBatches;
-      document.getElementById('total-tasks-completed').textContent = jsonData.TotalTasksCompleted;
-      document.getElementById('task-iterations').textContent = jsonData.TaskIterations;
-      document.getElementById('found').textContent = jsonData.Found;
-    })
-    .catch(error => {
-      console.error('Error fetching JSON:', error);
-    });
+    // Fetch JSON data from URL
+    fetch('https://raw.githubusercontent.com/invpe/GridMan/main/p_lotto.json')
+        .then(response => response.json())
+        .then(jsonData => {
+            // Calculate total iterations
+            const totalIterations = jsonData.TaskIterations * jsonData.TotalTasksCompleted;
+
+            // Function to abbreviate large numbers
+            function abbreviateNumber(value) {
+                const suffixes = ["", "K", "M", "B", "T"];
+                const magnitude = Math.floor(Math.log10(value) / 3);
+                const abbreviatedValue = value / Math.pow(10, magnitude * 3);
+                return abbreviatedValue.toFixed(2) + suffixes[magnitude];
+            }
+
+            // Update table cells with JSON data and calculated value
+            document.getElementById('epoch').textContent = formatDate(jsonData.Epoch);
+            document.getElementById('batch-tasks').textContent = jsonData.BatchTasks;
+            document.getElementById('batch-tasks-completed').textContent = jsonData.BatchTasksCompleted;
+            document.getElementById('total-batches').textContent = jsonData.TotalBatches;
+            document.getElementById('total-tasks-completed').textContent = jsonData.TotalTasksCompleted;
+            document.getElementById('task-iterations').textContent = jsonData.TaskIterations;
+            document.getElementById('found').textContent = jsonData.Found;
+            document.getElementById('total-iterations').textContent = abbreviateNumber(totalIterations); // Abbreviate total iterations
+        })
+        .catch(error => {
+            console.error('Error fetching JSON:', error);
+        });
+
+    // Function to format Unix timestamp to date/time string
+    function formatDate(epoch) {
+        const date = new Date(epoch * 1000); // Convert Unix timestamp to milliseconds
+        const options = { year: 'numeric', month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: false };
+        return date.toLocaleDateString('en-US', options);
+    }
 </script>
+
 
 </body>
 </html>
