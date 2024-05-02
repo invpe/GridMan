@@ -1,7 +1,7 @@
 {
-"CPU": 26.587769,
+"CPU": 15.019705,
 "Starttime": 1714648137,
-"Epoch": 1714660197,
+"Epoch": 1714660797,
 "Version": "0.8",
 "Utilization": 43.750000,
 "Connections": 2,
@@ -13,65 +13,65 @@
 "TasksCount": 7,
 "Tasks":[
 {
-"ID": 981,
+"ID": 1021,
 "Binary": "HELIUM_MNEMONICS",
 "State": 2,
 "Progress": 0,
-"Start": 1714660164,
+"Start": 1714660773,
 "End": 0
 }
 ,
 {
-"ID": 983,
+"ID": 1023,
 "Binary": "HELIUM_MNEMONICS",
 "State": 2,
 "Progress": 0,
-"Start": 1714660164,
+"Start": 1714660773,
 "End": 0
 }
 ,
 {
-"ID": 984,
+"ID": 1024,
 "Binary": "HELIUM_MNEMONICS",
 "State": 2,
 "Progress": 0,
-"Start": 1714660164,
+"Start": 1714660773,
 "End": 0
 }
 ,
 {
-"ID": 985,
+"ID": 1025,
 "Binary": "HELIUM_MNEMONICS",
 "State": 2,
 "Progress": 0,
-"Start": 1714660165,
+"Start": 1714660773,
 "End": 0
 }
 ,
 {
-"ID": 988,
+"ID": 1028,
 "Binary": "HELIUM_MNEMONICS",
 "State": 2,
 "Progress": 0,
-"Start": 1714660165,
+"Start": 1714660773,
 "End": 0
 }
 ,
 {
-"ID": 989,
+"ID": 1029,
 "Binary": "HELIUM_MNEMONICS",
 "State": 2,
 "Progress": 0,
-"Start": 1714660165,
+"Start": 1714660773,
 "End": 0
 }
 ,
 {
-"ID": 990,
+"ID": 1030,
 "Binary": "HELIUM_MNEMONICS",
 "State": 2,
 "Progress": 0,
-"Start": 1714660165,
+"Start": 1714660773,
 "End": 0
 }
 ],
@@ -79,10 +79,10 @@
 {
 "ID": "PI_GRIDMAN",
 "Class": 1,
-"Task": 981,
+"Task": 1021,
 "CPUCount": 4,
-"LoadAverage": 1.677246,
-"TasksCompleted": 73,
+"LoadAverage": 1.916992,
+"TasksCompleted": 77,
 "System": 6,
 "Enabled": 1
 }
@@ -92,8 +92,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 8,
-"LoadAverage": 2.383301,
-"TasksCompleted": 101,
+"LoadAverage": 2.722656,
+"TasksCompleted": 105,
 "System": 5,
 "Enabled": 1
 }
@@ -101,10 +101,10 @@
 {
 "ID": "J_PROX",
 "Class": 1,
-"Task": 983,
+"Task": 1023,
 "CPUCount": 2,
-"LoadAverage": 1.694824,
-"TasksCompleted": 81,
+"LoadAverage": 1.346191,
+"TasksCompleted": 85,
 "System": 5,
 "Enabled": 1
 }
@@ -112,10 +112,10 @@
 {
 "ID": "J_PROX",
 "Class": 1,
-"Task": 984,
+"Task": 1024,
 "CPUCount": 2,
-"LoadAverage": 1.694824,
-"TasksCompleted": 83,
+"LoadAverage": 1.346191,
+"TasksCompleted": 87,
 "System": 5,
 "Enabled": 1
 }
@@ -123,10 +123,10 @@
 {
 "ID": "PI_SOLAR",
 "Class": 1,
-"Task": 985,
+"Task": 1025,
 "CPUCount": 4,
-"LoadAverage": 1.877930,
-"TasksCompleted": 73,
+"LoadAverage": 1.955566,
+"TasksCompleted": 77,
 "System": 6,
 "Enabled": 1
 }
@@ -136,8 +136,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 8,
-"LoadAverage": 2.383301,
-"TasksCompleted": 99,
+"LoadAverage": 2.722656,
+"TasksCompleted": 103,
 "System": 5,
 "Enabled": 1
 }
@@ -147,8 +147,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 8,
-"LoadAverage": 2.383301,
-"TasksCompleted": 97,
+"LoadAverage": 2.722656,
+"TasksCompleted": 101,
 "System": 5,
 "Enabled": 1
 }
@@ -156,10 +156,10 @@
 {
 "ID": "GS_WORK",
 "Class": 1,
-"Task": 988,
+"Task": 1028,
 "CPUCount": 1,
-"LoadAverage": 0.860000,
-"TasksCompleted": 73,
+"LoadAverage": 0.790000,
+"TasksCompleted": 77,
 "System": 5,
 "Enabled": 1
 }
@@ -167,10 +167,10 @@
 {
 "ID": "GS_EXPLORER",
 "Class": 1,
-"Task": 989,
+"Task": 1029,
 "CPUCount": 1,
-"LoadAverage": 0.870000,
-"TasksCompleted": 75,
+"LoadAverage": 0.710000,
+"TasksCompleted": 79,
 "System": 5,
 "Enabled": 1
 }
@@ -178,10 +178,10 @@
 {
 "ID": "PI_KNS",
 "Class": 1,
-"Task": 990,
+"Task": 1030,
 "CPUCount": 4,
-"LoadAverage": 3.770000,
-"TasksCompleted": 73,
+"LoadAverage": 2.310000,
+"TasksCompleted": 77,
 "System": 6,
 "Enabled": 1
 }
@@ -191,7 +191,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 4,
-"LoadAverage": 3.770000,
+"LoadAverage": 2.310000,
 "TasksCompleted": 25,
 "System": 6,
 "Enabled": 1
@@ -202,7 +202,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 4,
-"LoadAverage": 0.520000,
+"LoadAverage": 0.210000,
 "TasksCompleted": 25,
 "System": 6,
 "Enabled": 1
@@ -224,7 +224,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 4,
-"LoadAverage": 0.520000,
+"LoadAverage": 0.210000,
 "TasksCompleted": 22,
 "System": 6,
 "Enabled": 1
@@ -235,7 +235,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 4,
-"LoadAverage": 0.520000,
+"LoadAverage": 0.190000,
 "TasksCompleted": 20,
 "System": 6,
 "Enabled": 1
@@ -246,7 +246,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 9.160000,
+"LoadAverage": 9.460000,
 "TasksCompleted": 17,
 "System": 6,
 "Enabled": 1
@@ -257,7 +257,7 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 8,
-"LoadAverage": 2.503906,
+"LoadAverage": 2.873047,
 "TasksCompleted": 0,
 "System": 5,
 "Enabled": 1
@@ -268,7 +268,7 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 4,
-"LoadAverage": 1.677246,
+"LoadAverage": 1.735352,
 "TasksCompleted": 0,
 "System": 6,
 "Enabled": 1
