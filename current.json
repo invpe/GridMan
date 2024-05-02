@@ -1,50 +1,77 @@
 {
-"CPU": 1.014923,
+"CPU": 5.320197,
 "Starttime": 1714643622,
-"Epoch": 1714644763,
+"Epoch": 1714645843,
 "Version": "0.8",
 "Utilization": 23.529411,
 "Connections": 1,
 "NodesCount": 17,
 "TasksNew": 0,
-"TasksCompleted": 0,
+"TasksCompleted": 3,
 "TasksRunning": 4,
 "TasksFailed": 0,
-"TasksCount": 4,
+"TasksCount": 7,
 "Tasks":[
 {
-"ID": 11,
-"Binary": "BTC_LOTTERY",
+"ID": 32,
+"Binary": "HELIUM_MNEMONICS",
+"State": 4,
+"Progress": 100,
+"Start": 1714645686,
+"End": 1714645822
+}
+,
+{
+"ID": 33,
+"Binary": "HELIUM_MNEMONICS",
+"State": 4,
+"Progress": 100,
+"Start": 1714645686,
+"End": 1714645820
+}
+,
+{
+"ID": 35,
+"Binary": "HELIUM_MNEMONICS",
+"State": 4,
+"Progress": 100,
+"Start": 1714645686,
+"End": 1714645842
+}
+,
+{
+"ID": 41,
+"Binary": "HELIUM_MNEMONICS",
 "State": 2,
 "Progress": 0,
-"Start": 1714644551,
+"Start": 1714645842,
 "End": 0
 }
 ,
 {
-"ID": 12,
-"Binary": "BTC_LOTTERY",
+"ID": 42,
+"Binary": "HELIUM_MNEMONICS",
 "State": 2,
 "Progress": 0,
-"Start": 1714644551,
+"Start": 1714645842,
 "End": 0
 }
 ,
 {
-"ID": 13,
-"Binary": "BTC_LOTTERY",
+"ID": 43,
+"Binary": "HELIUM_MNEMONICS",
 "State": 2,
 "Progress": 0,
-"Start": 1714644551,
+"Start": 1714645842,
 "End": 0
 }
 ,
 {
-"ID": 15,
-"Binary": "BTC_LOTTERY",
+"ID": 44,
+"Binary": "HELIUM_MNEMONICS",
 "State": 2,
 "Progress": 0,
-"Start": 1714644551,
+"Start": 1714645842,
 "End": 0
 }
 ],
@@ -52,10 +79,10 @@
 {
 "ID": "PI_WIFI",
 "Class": 1,
-"Task": 11,
+"Task": 41,
 "CPUCount": 4,
-"LoadAverage": 6.130000,
-"TasksCompleted": 2,
+"LoadAverage": 3.920000,
+"TasksCompleted": 5,
 "System": 6,
 "Enabled": 1
 }
@@ -63,10 +90,10 @@
 {
 "ID": "PI_WIFI",
 "Class": 1,
-"Task": 12,
+"Task": 42,
 "CPUCount": 4,
-"LoadAverage": 6.130000,
-"TasksCompleted": 1,
+"LoadAverage": 3.920000,
+"TasksCompleted": 4,
 "System": 6,
 "Enabled": 1
 }
@@ -74,10 +101,10 @@
 {
 "ID": "PI_WIFI",
 "Class": 1,
-"Task": 13,
+"Task": 43,
 "CPUCount": 4,
-"LoadAverage": 6.130000,
-"TasksCompleted": 1,
+"LoadAverage": 3.920000,
+"TasksCompleted": 4,
 "System": 6,
 "Enabled": 1
 }
@@ -85,10 +112,10 @@
 {
 "ID": "PI_GRIDMAN",
 "Class": 1,
-"Task": 0,
+"Task": 44,
 "CPUCount": 4,
-"LoadAverage": 0.941895,
-"TasksCompleted": 2,
+"LoadAverage": 1.385254,
+"TasksCompleted": 4,
 "System": 6,
 "Enabled": 1
 }
@@ -96,10 +123,10 @@
 {
 "ID": "PI_SOLAR",
 "Class": 1,
-"Task": 15,
+"Task": 0,
 "CPUCount": 4,
-"LoadAverage": 2.119629,
-"TasksCompleted": 1,
+"LoadAverage": 1.981934,
+"TasksCompleted": 4,
 "System": 6,
 "Enabled": 1
 }
@@ -109,8 +136,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 8,
-"LoadAverage": 0.915039,
-"TasksCompleted": 2,
+"LoadAverage": 0.641602,
+"TasksCompleted": 4,
 "System": 5,
 "Enabled": 1
 }
@@ -120,8 +147,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 8,
-"LoadAverage": 0.915039,
-"TasksCompleted": 2,
+"LoadAverage": 0.641602,
+"TasksCompleted": 4,
 "System": 5,
 "Enabled": 1
 }
@@ -131,8 +158,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 0.253418,
-"TasksCompleted": 2,
+"LoadAverage": 0.228516,
+"TasksCompleted": 4,
 "System": 5,
 "Enabled": 1
 }
@@ -142,8 +169,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 0.253418,
-"TasksCompleted": 2,
+"LoadAverage": 0.228516,
+"TasksCompleted": 4,
 "System": 5,
 "Enabled": 1
 }
@@ -153,8 +180,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 8,
-"LoadAverage": 0.915039,
-"TasksCompleted": 1,
+"LoadAverage": 0.641602,
+"TasksCompleted": 3,
 "System": 5,
 "Enabled": 1
 }
@@ -197,7 +224,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 8,
-"LoadAverage": 1.160645,
+"LoadAverage": 1.122559,
 "TasksCompleted": 0,
 "System": 3,
 "Enabled": 1
@@ -208,7 +235,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 9.140000,
+"LoadAverage": 9.020000,
 "TasksCompleted": 0,
 "System": 6,
 "Enabled": 1
@@ -219,7 +246,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 4,
-"LoadAverage": 0.430000,
+"LoadAverage": 0.420000,
 "TasksCompleted": 0,
 "System": 6,
 "Enabled": 1
@@ -230,7 +257,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 4,
-"LoadAverage": 0.430000,
+"LoadAverage": 0.460000,
 "TasksCompleted": 0,
 "System": 6,
 "Enabled": 1
@@ -240,10 +267,10 @@
 "ID": "LibClient",
 "Class": 2,
 "Task": 0,
-"CPUCount": 4,
-"LoadAverage": 0.866211,
+"CPUCount": 8,
+"LoadAverage": 0.641602,
 "TasksCompleted": 0,
-"System": 6,
+"System": 5,
 "Enabled": 1
 }
 ]}
