@@ -1,0 +1,214 @@
+{
+"CPU": 1.016636,
+"Starttime": 1714643622,
+"Epoch": 1714644283,
+"Version": "0.8",
+"Utilization": 0.000000,
+"Connections": 1,
+"NodesCount": 17,
+"TasksNew": 0,
+"TasksCompleted": 0,
+"TasksRunning": 0,
+"TasksFailed": 0,
+"TasksCount": 0,
+"Tasks":[
+],
+"Nodes":[
+{
+"ID": "PI_WIFI",
+"Class": 1,
+"Task": 0,
+"CPUCount": 4,
+"LoadAverage": 0.280000,
+"TasksCompleted": 2,
+"System": 6,
+"Enabled": 1
+}
+,
+{
+"ID": "PI_WIFI",
+"Class": 1,
+"Task": 0,
+"CPUCount": 4,
+"LoadAverage": 0.280000,
+"TasksCompleted": 1,
+"System": 6,
+"Enabled": 1
+}
+,
+{
+"ID": "PI_WIFI",
+"Class": 1,
+"Task": 0,
+"CPUCount": 4,
+"LoadAverage": 0.280000,
+"TasksCompleted": 1,
+"System": 6,
+"Enabled": 1
+}
+,
+{
+"ID": "PI_GRIDMAN",
+"Class": 1,
+"Task": 0,
+"CPUCount": 4,
+"LoadAverage": 0.713379,
+"TasksCompleted": 1,
+"System": 6,
+"Enabled": 1
+}
+,
+{
+"ID": "PI_SOLAR",
+"Class": 1,
+"Task": 0,
+"CPUCount": 4,
+"LoadAverage": 0.286133,
+"TasksCompleted": 1,
+"System": 6,
+"Enabled": 1
+}
+,
+{
+"ID": "DELL2",
+"Class": 1,
+"Task": 0,
+"CPUCount": 8,
+"LoadAverage": 1.124512,
+"TasksCompleted": 1,
+"System": 5,
+"Enabled": 1
+}
+,
+{
+"ID": "DELL1",
+"Class": 1,
+"Task": 0,
+"CPUCount": 8,
+"LoadAverage": 1.124512,
+"TasksCompleted": 1,
+"System": 5,
+"Enabled": 1
+}
+,
+{
+"ID": "J_PROX",
+"Class": 1,
+"Task": 0,
+"CPUCount": 2,
+"LoadAverage": 0.000000,
+"TasksCompleted": 1,
+"System": 5,
+"Enabled": 1
+}
+,
+{
+"ID": "J_PROX",
+"Class": 1,
+"Task": 0,
+"CPUCount": 2,
+"LoadAverage": 0.000000,
+"TasksCompleted": 1,
+"System": 5,
+"Enabled": 1
+}
+,
+{
+"ID": "DELL",
+"Class": 1,
+"Task": 0,
+"CPUCount": 8,
+"LoadAverage": 1.124512,
+"TasksCompleted": 0,
+"System": 5,
+"Enabled": 1
+}
+,
+{
+"ID": "GS_WORK",
+"Class": 1,
+"Task": 0,
+"CPUCount": 1,
+"LoadAverage": 0.000000,
+"TasksCompleted": 0,
+"System": 5,
+"Enabled": 1
+}
+,
+{
+"ID": "GS_EXPLORER",
+"Class": 1,
+"Task": 0,
+"CPUCount": 1,
+"LoadAverage": 0.000000,
+"TasksCompleted": 0,
+"System": 5,
+"Enabled": 1
+}
+,
+{
+"ID": "AWHITE",
+"Class": 1,
+"Task": 0,
+"CPUCount": 8,
+"LoadAverage": 0.000000,
+"TasksCompleted": 0,
+"System": 7,
+"Enabled": 1
+}
+,
+{
+"ID": "IMAC1",
+"Class": 1,
+"Task": 0,
+"CPUCount": 8,
+"LoadAverage": 1.425781,
+"TasksCompleted": 0,
+"System": 3,
+"Enabled": 1
+}
+,
+{
+"ID": "ABLACK",
+"Class": 1,
+"Task": 0,
+"CPUCount": 1,
+"LoadAverage": 9.560000,
+"TasksCompleted": 0,
+"System": 6,
+"Enabled": 1
+}
+,
+{
+"ID": "PI_KNS",
+"Class": 1,
+"Task": 0,
+"CPUCount": 4,
+"LoadAverage": 0.450000,
+"TasksCompleted": 0,
+"System": 6,
+"Enabled": 1
+}
+,
+{
+"ID": "PI_KNS",
+"Class": 1,
+"Task": 0,
+"CPUCount": 4,
+"LoadAverage": 0.490000,
+"TasksCompleted": 0,
+"System": 6,
+"Enabled": 1
+}
+,
+{
+"ID": "LibClient",
+"Class": 2,
+"Task": 0,
+"CPUCount": 4,
+"LoadAverage": 0.896973,
+"TasksCompleted": 0,
+"System": 6,
+"Enabled": 1
+}
+]}
