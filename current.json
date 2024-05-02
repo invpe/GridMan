@@ -1,95 +1,59 @@
 {
-"CPU": 38.538689,
+"CPU": 46.289345,
 "Starttime": 1714648137,
-"Epoch": 1714655997,
+"Epoch": 1714656597,
 "Version": "0.8",
-"Utilization": 56.250000,
+"Utilization": 18.750000,
 "Connections": 2,
 "NodesCount": 16,
 "TasksNew": 0,
-"TasksCompleted": 0,
-"TasksRunning": 9,
+"TasksCompleted": 2,
+"TasksRunning": 3,
 "TasksFailed": 0,
-"TasksCount": 9,
+"TasksCount": 5,
 "Tasks":[
 {
-"ID": 665,
+"ID": 711,
 "Binary": "HELIUM_MNEMONICS",
 "State": 2,
 "Progress": 0,
-"Start": 1714655880,
+"Start": 1714656540,
 "End": 0
 }
 ,
 {
-"ID": 670,
+"ID": 715,
 "Binary": "HELIUM_MNEMONICS",
 "State": 2,
 "Progress": 0,
-"Start": 1714655880,
+"Start": 1714656541,
 "End": 0
 }
 ,
 {
-"ID": 674,
-"Binary": "BTC_LOTTERY",
-"State": 2,
-"Progress": 0,
-"Start": 1714655901,
-"End": 0
+"ID": 718,
+"Binary": "HELIUM_MNEMONICS",
+"State": 4,
+"Progress": 100,
+"Start": 1714656541,
+"End": 1714656592
 }
 ,
 {
-"ID": 675,
-"Binary": "BTC_LOTTERY",
-"State": 2,
-"Progress": 0,
-"Start": 1714655901,
-"End": 0
+"ID": 719,
+"Binary": "HELIUM_MNEMONICS",
+"State": 4,
+"Progress": 100,
+"Start": 1714656541,
+"End": 1714656588
 }
 ,
 {
-"ID": 676,
-"Binary": "BTC_LOTTERY",
+"ID": 720,
+"Binary": "HELIUM_MNEMONICS",
 "State": 2,
 "Progress": 0,
-"Start": 1714655901,
-"End": 0
-}
-,
-{
-"ID": 677,
-"Binary": "BTC_LOTTERY",
-"State": 2,
-"Progress": 0,
-"Start": 1714655901,
-"End": 0
-}
-,
-{
-"ID": 678,
-"Binary": "BTC_LOTTERY",
-"State": 2,
-"Progress": 0,
-"Start": 1714655901,
-"End": 0
-}
-,
-{
-"ID": 679,
-"Binary": "BTC_LOTTERY",
-"State": 2,
-"Progress": 0,
-"Start": 1714655901,
-"End": 0
-}
-,
-{
-"ID": 680,
-"Binary": "BTC_LOTTERY",
-"State": 2,
-"Progress": 0,
-"Start": 1714655971,
+"Start": 1714656541,
 "End": 0
 }
 ],
@@ -97,10 +61,10 @@
 {
 "ID": "PI_GRIDMAN",
 "Class": 1,
-"Task": 680,
+"Task": 711,
 "CPUCount": 4,
-"LoadAverage": 2.984375,
-"TasksCompleted": 48,
+"LoadAverage": 2.190918,
+"TasksCompleted": 51,
 "System": 6,
 "Enabled": 1
 }
@@ -110,8 +74,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 8,
-"LoadAverage": 1.159668,
-"TasksCompleted": 69,
+"LoadAverage": 1.359863,
+"TasksCompleted": 73,
 "System": 5,
 "Enabled": 1
 }
@@ -121,8 +85,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 0.401855,
-"TasksCompleted": 54,
+"LoadAverage": 1.198242,
+"TasksCompleted": 58,
 "System": 5,
 "Enabled": 1
 }
@@ -132,8 +96,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 0.401855,
-"TasksCompleted": 56,
+"LoadAverage": 1.198242,
+"TasksCompleted": 60,
 "System": 5,
 "Enabled": 1
 }
@@ -141,10 +105,10 @@
 {
 "ID": "PI_SOLAR",
 "Class": 1,
-"Task": 665,
+"Task": 715,
 "CPUCount": 4,
-"LoadAverage": 2.177734,
-"TasksCompleted": 47,
+"LoadAverage": 2.022461,
+"TasksCompleted": 51,
 "System": 6,
 "Enabled": 1
 }
@@ -154,8 +118,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 8,
-"LoadAverage": 1.159668,
-"TasksCompleted": 67,
+"LoadAverage": 1.359863,
+"TasksCompleted": 72,
 "System": 5,
 "Enabled": 1
 }
@@ -165,8 +129,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 8,
-"LoadAverage": 1.159668,
-"TasksCompleted": 66,
+"LoadAverage": 1.359863,
+"TasksCompleted": 70,
 "System": 5,
 "Enabled": 1
 }
@@ -176,8 +140,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.600000,
-"TasksCompleted": 48,
+"LoadAverage": 1.140000,
+"TasksCompleted": 52,
 "System": 5,
 "Enabled": 1
 }
@@ -187,8 +151,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.360000,
-"TasksCompleted": 50,
+"LoadAverage": 0.950000,
+"TasksCompleted": 54,
 "System": 5,
 "Enabled": 1
 }
@@ -196,10 +160,10 @@
 {
 "ID": "PI_KNS",
 "Class": 1,
-"Task": 670,
+"Task": 720,
 "CPUCount": 4,
-"LoadAverage": 4.180000,
-"TasksCompleted": 47,
+"LoadAverage": 3.480000,
+"TasksCompleted": 51,
 "System": 6,
 "Enabled": 1
 }
@@ -207,10 +171,10 @@
 {
 "ID": "PI_KNS",
 "Class": 1,
-"Task": 674,
+"Task": 0,
 "CPUCount": 4,
-"LoadAverage": 4.180000,
-"TasksCompleted": 19,
+"LoadAverage": 3.480000,
+"TasksCompleted": 20,
 "System": 6,
 "Enabled": 1
 }
@@ -218,10 +182,10 @@
 {
 "ID": "PI_WIFI",
 "Class": 1,
-"Task": 675,
+"Task": 0,
 "CPUCount": 4,
-"LoadAverage": 5.360000,
-"TasksCompleted": 19,
+"LoadAverage": 0.570000,
+"TasksCompleted": 20,
 "System": 6,
 "Enabled": 1
 }
@@ -229,10 +193,10 @@
 {
 "ID": "AWHITE",
 "Class": 1,
-"Task": 676,
+"Task": 0,
 "CPUCount": 8,
 "LoadAverage": 0.000000,
-"TasksCompleted": 19,
+"TasksCompleted": 20,
 "System": 7,
 "Enabled": 1
 }
@@ -240,10 +204,10 @@
 {
 "ID": "PI_WIFI",
 "Class": 1,
-"Task": 677,
+"Task": 0,
 "CPUCount": 4,
-"LoadAverage": 5.310000,
-"TasksCompleted": 16,
+"LoadAverage": 0.570000,
+"TasksCompleted": 17,
 "System": 6,
 "Enabled": 1
 }
@@ -251,10 +215,10 @@
 {
 "ID": "PI_WIFI",
 "Class": 1,
-"Task": 678,
+"Task": 0,
 "CPUCount": 4,
-"LoadAverage": 5.360000,
-"TasksCompleted": 14,
+"LoadAverage": 0.520000,
+"TasksCompleted": 15,
 "System": 6,
 "Enabled": 1
 }
@@ -262,10 +226,10 @@
 {
 "ID": "ABLACK",
 "Class": 1,
-"Task": 679,
-"CPUCount": 3,
-"LoadAverage": 10.230000,
-"TasksCompleted": 13,
+"Task": 0,
+"CPUCount": 1,
+"LoadAverage": 9.330000,
+"TasksCompleted": 14,
 "System": 6,
 "Enabled": 1
 }
@@ -275,7 +239,7 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 8,
-"LoadAverage": 1.260742,
+"LoadAverage": 1.359863,
 "TasksCompleted": 0,
 "System": 5,
 "Enabled": 1
@@ -286,7 +250,7 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 4,
-"LoadAverage": 2.982910,
+"LoadAverage": 2.208008,
 "TasksCompleted": 0,
 "System": 6,
 "Enabled": 1
