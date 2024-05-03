@@ -1,12 +1,12 @@
 {
-"CPU": 1.759678,
+"CPU": 1.607233,
 "Starttime": 1714751364,
-"Epoch": 1714759764,
+"Epoch": 1714760364,
 "Version": "0.8",
 "Throttled": 1,
 "Utilization": 0.000000,
 "Connections": 2,
-"NodesCount": 12,
+"NodesCount": 11,
 "TasksNew": 0,
 "TasksCompleted": 0,
 "TasksRunning": 0,
@@ -20,7 +20,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 0.125977,
+"LoadAverage": 0.087402,
 "TasksCompleted": 150,
 "System": 5,
 "Enabled": 1
@@ -31,7 +31,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 0.125977,
+"LoadAverage": 0.087402,
 "TasksCompleted": 141,
 "System": 5,
 "Enabled": 1
@@ -42,7 +42,7 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.115723,
+"LoadAverage": 0.160645,
 "TasksCompleted": 0,
 "System": 5,
 "Enabled": 1
@@ -53,7 +53,7 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.125977,
+"LoadAverage": 0.087402,
 "TasksCompleted": 0,
 "System": 5,
 "Enabled": 1
@@ -64,7 +64,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 9.080000,
+"LoadAverage": 9.000000,
 "TasksCompleted": 0,
 "System": 6,
 "Enabled": 1
@@ -152,20 +152,9 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 4,
-"LoadAverage": 0.270996,
+"LoadAverage": 0.162109,
 "TasksCompleted": 0,
 "System": 6,
-"Enabled": 1
-}
-,
-{
-"ID": "IMAC1",
-"Class": 1,
-"Task": 0,
-"CPUCount": 8,
-"LoadAverage": 0.967773,
-"TasksCompleted": 0,
-"System": 3,
 "Enabled": 1
 }
 ]}
