@@ -1,12 +1,12 @@
 {
-"CPU": 1.457531,
+"CPU": 1.724427,
 "Starttime": 1714751364,
-"Epoch": 1714757964,
+"Epoch": 1714758564,
 "Version": "0.8",
 "Throttled": 1,
 "Utilization": 0.000000,
 "Connections": 2,
-"NodesCount": 2,
+"NodesCount": 11,
 "TasksNew": 0,
 "TasksCompleted": 0,
 "TasksRunning": 0,
@@ -20,7 +20,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 0.000000,
+"LoadAverage": 0.042969,
 "TasksCompleted": 150,
 "System": 5,
 "Enabled": 1
@@ -31,7 +31,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 0.000000,
+"LoadAverage": 0.039062,
 "TasksCompleted": 141,
 "System": 5,
 "Enabled": 1
@@ -42,7 +42,7 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.000000,
+"LoadAverage": 0.039062,
 "TasksCompleted": 0,
 "System": 5,
 "Enabled": 1
@@ -53,9 +53,108 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 1,
+"LoadAverage": 0.042969,
+"TasksCompleted": 0,
+"System": 5,
+"Enabled": 1
+}
+,
+{
+"ID": "ABLACK",
+"Class": 1,
+"Task": 0,
+"CPUCount": 1,
+"LoadAverage": 9.130000,
+"TasksCompleted": 0,
+"System": 6,
+"Enabled": 1
+}
+,
+{
+"ID": "AWHITE",
+"Class": 1,
+"Task": 0,
+"CPUCount": 8,
+"LoadAverage": 0.000000,
+"TasksCompleted": 0,
+"System": 7,
+"Enabled": 1
+}
+,
+{
+"ID": "J_PROX",
+"Class": 1,
+"Task": 0,
+"CPUCount": 2,
 "LoadAverage": 0.000000,
 "TasksCompleted": 0,
 "System": 5,
+"Enabled": 1
+}
+,
+{
+"ID": "J_PROX",
+"Class": 1,
+"Task": 0,
+"CPUCount": 2,
+"LoadAverage": 0.000000,
+"TasksCompleted": 0,
+"System": 5,
+"Enabled": 1
+}
+,
+{
+"ID": "GS_WORK",
+"Class": 1,
+"Task": 0,
+"CPUCount": 1,
+"LoadAverage": 0.000000,
+"TasksCompleted": 0,
+"System": 5,
+"Enabled": 1
+}
+,
+{
+"ID": "GS_EXPLORER",
+"Class": 1,
+"Task": 0,
+"CPUCount": 1,
+"LoadAverage": 0.000000,
+"TasksCompleted": 0,
+"System": 5,
+"Enabled": 1
+}
+,
+{
+"ID": "PI_KNS",
+"Class": 1,
+"Task": 0,
+"CPUCount": 4,
+"LoadAverage": 0.550000,
+"TasksCompleted": 0,
+"System": 6,
+"Enabled": 1
+}
+,
+{
+"ID": "PI_KNS",
+"Class": 1,
+"Task": 0,
+"CPUCount": 4,
+"LoadAverage": 0.550000,
+"TasksCompleted": 0,
+"System": 6,
+"Enabled": 1
+}
+,
+{
+"ID": "PI_SOLAR",
+"Class": 1,
+"Task": 0,
+"CPUCount": 4,
+"LoadAverage": 0.236816,
+"TasksCompleted": 0,
+"System": 6,
 "Enabled": 1
 }
 ]}
