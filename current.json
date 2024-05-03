@@ -1,25 +1,17 @@
 {
-"CPU": 0.894993,
+"CPU": 1.030159,
 "Starttime": 1714648137,
-"Epoch": 1714709401,
+"Epoch": 1714710001,
 "Version": "0.8",
-"Utilization": 6.250000,
+"Utilization": 0.000000,
 "Connections": 2,
-"NodesCount": 16,
+"NodesCount": 17,
 "TasksNew": 0,
 "TasksCompleted": 0,
-"TasksRunning": 1,
+"TasksRunning": 0,
 "TasksFailed": 0,
-"TasksCount": 1,
+"TasksCount": 0,
 "Tasks":[
-{
-"ID": 8875,
-"Binary": "BTC_LOTTERY",
-"State": 2,
-"Progress": 0,
-"Start": 1714708812,
-"End": 0
-}
 ],
 "Nodes":[
 {
@@ -27,7 +19,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 4,
-"LoadAverage": 0.526367,
+"LoadAverage": 0.640137,
 "TasksCompleted": 161,
 "System": 6,
 "Enabled": 1
@@ -38,8 +30,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 8,
-"LoadAverage": 0.327148,
-"TasksCompleted": 1587,
+"LoadAverage": 0.596191,
+"TasksCompleted": 1614,
 "System": 5,
 "Enabled": 1
 }
@@ -49,8 +41,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 0.165527,
-"TasksCompleted": 805,
+"LoadAverage": 0.320312,
+"TasksCompleted": 819,
 "System": 5,
 "Enabled": 1
 }
@@ -60,8 +52,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 0.165527,
-"TasksCompleted": 801,
+"LoadAverage": 0.320312,
+"TasksCompleted": 815,
 "System": 5,
 "Enabled": 1
 }
@@ -69,10 +61,10 @@
 {
 "ID": "PI_SOLAR",
 "Class": 1,
-"Task": 8875,
+"Task": 0,
 "CPUCount": 4,
-"LoadAverage": 2.192383,
-"TasksCompleted": 152,
+"LoadAverage": 0.137207,
+"TasksCompleted": 153,
 "System": 6,
 "Enabled": 1
 }
@@ -82,8 +74,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 8,
-"LoadAverage": 0.327148,
-"TasksCompleted": 1550,
+"LoadAverage": 0.596191,
+"TasksCompleted": 1577,
 "System": 5,
 "Enabled": 1
 }
@@ -93,8 +85,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 8,
-"LoadAverage": 0.327148,
-"TasksCompleted": 1544,
+"LoadAverage": 0.596191,
+"TasksCompleted": 1571,
 "System": 5,
 "Enabled": 1
 }
@@ -104,8 +96,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.150000,
-"TasksCompleted": 743,
+"LoadAverage": 0.270000,
+"TasksCompleted": 757,
 "System": 5,
 "Enabled": 1
 }
@@ -115,8 +107,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.120000,
-"TasksCompleted": 781,
+"LoadAverage": 0.220000,
+"TasksCompleted": 795,
 "System": 5,
 "Enabled": 1
 }
@@ -126,7 +118,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 4,
-"LoadAverage": 1.950000,
+"LoadAverage": 0.760000,
 "TasksCompleted": 159,
 "System": 6,
 "Enabled": 1
@@ -137,7 +129,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 4,
-"LoadAverage": 1.950000,
+"LoadAverage": 0.760000,
 "TasksCompleted": 52,
 "System": 6,
 "Enabled": 1
@@ -148,7 +140,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 4,
-"LoadAverage": 0.330000,
+"LoadAverage": 0.150000,
 "TasksCompleted": 50,
 "System": 6,
 "Enabled": 1
@@ -170,7 +162,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 4,
-"LoadAverage": 0.330000,
+"LoadAverage": 0.150000,
 "TasksCompleted": 43,
 "System": 6,
 "Enabled": 1
@@ -181,7 +173,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 4,
-"LoadAverage": 0.330000,
+"LoadAverage": 0.150000,
 "TasksCompleted": 38,
 "System": 6,
 "Enabled": 1
@@ -192,7 +184,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 9.090000,
+"LoadAverage": 9.340000,
 "TasksCompleted": 36,
 "System": 6,
 "Enabled": 1
@@ -203,7 +195,7 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 4,
-"LoadAverage": 0.526367,
+"LoadAverage": 0.696289,
 "TasksCompleted": 0,
 "System": 6,
 "Enabled": 1
@@ -214,9 +206,20 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 8,
-"LoadAverage": 0.300781,
+"LoadAverage": 0.548340,
 "TasksCompleted": 0,
 "System": 5,
+"Enabled": 1
+}
+,
+{
+"ID": "IMAC1",
+"Class": 1,
+"Task": 0,
+"CPUCount": 8,
+"LoadAverage": 1.403320,
+"TasksCompleted": 0,
+"System": 3,
 "Enabled": 1
 }
 ]}
