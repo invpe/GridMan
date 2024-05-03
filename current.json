@@ -1,8 +1,9 @@
 {
-"CPU": 23.154209,
-"Starttime": 1714750584,
-"Epoch": 1714750584,
+"CPU": 21.178286,
+"Starttime": 1714751364,
+"Epoch": 1714751364,
 "Version": "0.8",
+"Throttled": 0,
 "Utilization": 0.000000,
 "Connections": 0,
 "NodesCount": 0,
