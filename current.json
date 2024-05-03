@@ -1,232 +1,196 @@
 {
-"CPU": 13.553359,
+"CPU": 12.393234,
 "Starttime": 1714751364,
-"Epoch": 1714753764,
+"Epoch": 1714754364,
 "Version": "0.8",
 "Throttled": 1,
-"Utilization": 25.000000,
+"Utilization": 0.000000,
 "Connections": 2,
 "NodesCount": 12,
 "TasksNew": 0,
-"TasksCompleted": 11,
-"TasksRunning": 3,
-"TasksFailed": 10,
-"TasksCount": 24,
+"TasksCompleted": 20,
+"TasksRunning": 0,
+"TasksFailed": 0,
+"TasksCount": 20,
 "Tasks":[
 {
-"ID": 416,
-"Binary": "BTC_LOTTERY",
-"State": 2,
-"Progress": 0,
-"Start": 1714753597,
-"End": 0
-}
-,
-{
-"ID": 418,
-"Binary": "BTC_LOTTERY",
-"State": 2,
-"Progress": 0,
-"Start": 1714753597,
-"End": 0
-}
-,
-{
-"ID": 419,
-"Binary": "BTC_LOTTERY",
-"State": 2,
-"Progress": 0,
-"Start": 1714753597,
-"End": 0
-}
-,
-{
-"ID": 420,
-"Binary": "BTC_LOTTERY",
-"State": 4,
-"Progress": 100,
-"Start": 1714753597,
-"End": 1714753723
-}
-,
-{
-"ID": 431,
-"Binary": "DGLTC_LOTTERY",
-"State": 3,
-"Progress": 100,
-"Start": 1714753728,
-"End": 1714753732
-}
-,
-{
-"ID": 432,
-"Binary": "DGLTC_LOTTERY",
-"State": 3,
-"Progress": 100,
-"Start": 1714753728,
-"End": 1714753731
-}
-,
-{
-"ID": 433,
-"Binary": "DGLTC_LOTTERY",
-"State": 3,
-"Progress": 100,
-"Start": 1714753728,
-"End": 1714753730
-}
-,
-{
-"ID": 434,
-"Binary": "DGLTC_LOTTERY",
-"State": 3,
-"Progress": 100,
-"Start": 1714753728,
-"End": 1714753731
-}
-,
-{
-"ID": 435,
-"Binary": "DGLTC_LOTTERY",
-"State": 3,
-"Progress": 100,
-"Start": 1714753728,
-"End": 1714753731
-}
-,
-{
-"ID": 436,
-"Binary": "DGLTC_LOTTERY",
-"State": 3,
-"Progress": 100,
-"Start": 1714753728,
-"End": 1714753732
-}
-,
-{
-"ID": 437,
-"Binary": "DGLTC_LOTTERY",
-"State": 3,
-"Progress": 100,
-"Start": 1714753731,
-"End": 1714753734
-}
-,
-{
-"ID": 438,
-"Binary": "DGLTC_LOTTERY",
-"State": 3,
-"Progress": 100,
-"Start": 1714753730,
-"End": 1714753733
-}
-,
-{
-"ID": 439,
-"Binary": "DGLTC_LOTTERY",
-"State": 3,
-"Progress": 100,
-"Start": 1714753731,
-"End": 1714753734
-}
-,
-{
-"ID": 440,
-"Binary": "DGLTC_LOTTERY",
-"State": 3,
-"Progress": 100,
-"Start": 1714753731,
-"End": 1714753734
-}
-,
-{
-"ID": 441,
+"ID": 501,
 "Binary": "DGLTC_LOTTERY",
 "State": 4,
 "Progress": 100,
-"Start": 1714753734,
-"End": 1714753737
+"Start": 1714754302,
+"End": 1714754305
 }
 ,
 {
-"ID": 442,
+"ID": 502,
 "Binary": "DGLTC_LOTTERY",
 "State": 4,
 "Progress": 100,
-"Start": 1714753734,
-"End": 1714753737
+"Start": 1714754302,
+"End": 1714754306
 }
 ,
 {
-"ID": 443,
+"ID": 503,
 "Binary": "DGLTC_LOTTERY",
 "State": 4,
 "Progress": 100,
-"Start": 1714753734,
-"End": 1714753737
+"Start": 1714754302,
+"End": 1714754305
 }
 ,
 {
-"ID": 444,
+"ID": 504,
 "Binary": "DGLTC_LOTTERY",
 "State": 4,
 "Progress": 100,
-"Start": 1714753734,
-"End": 1714753738
+"Start": 1714754302,
+"End": 1714754305
 }
 ,
 {
-"ID": 445,
+"ID": 505,
 "Binary": "DGLTC_LOTTERY",
 "State": 4,
 "Progress": 100,
-"Start": 1714753734,
-"End": 1714753737
+"Start": 1714754302,
+"End": 1714754305
 }
 ,
 {
-"ID": 446,
+"ID": 506,
 "Binary": "DGLTC_LOTTERY",
 "State": 4,
 "Progress": 100,
-"Start": 1714753734,
-"End": 1714753738
+"Start": 1714754302,
+"End": 1714754305
 }
 ,
 {
-"ID": 447,
+"ID": 507,
 "Binary": "DGLTC_LOTTERY",
 "State": 4,
 "Progress": 100,
-"Start": 1714753737,
-"End": 1714753740
+"Start": 1714754305,
+"End": 1714754308
 }
 ,
 {
-"ID": 448,
+"ID": 508,
 "Binary": "DGLTC_LOTTERY",
 "State": 4,
 "Progress": 100,
-"Start": 1714753737,
-"End": 1714753740
+"Start": 1714754305,
+"End": 1714754308
 }
 ,
 {
-"ID": 449,
+"ID": 509,
 "Binary": "DGLTC_LOTTERY",
 "State": 4,
 "Progress": 100,
-"Start": 1714753737,
-"End": 1714753740
+"Start": 1714754305,
+"End": 1714754307
 }
 ,
 {
-"ID": 450,
+"ID": 510,
 "Binary": "DGLTC_LOTTERY",
 "State": 4,
 "Progress": 100,
-"Start": 1714753737,
-"End": 1714753740
+"Start": 1714754305,
+"End": 1714754308
+}
+,
+{
+"ID": 511,
+"Binary": "DGLTC_LOTTERY",
+"State": 4,
+"Progress": 100,
+"Start": 1714754355,
+"End": 1714754358
+}
+,
+{
+"ID": 512,
+"Binary": "DGLTC_LOTTERY",
+"State": 4,
+"Progress": 100,
+"Start": 1714754355,
+"End": 1714754358
+}
+,
+{
+"ID": 513,
+"Binary": "DGLTC_LOTTERY",
+"State": 4,
+"Progress": 100,
+"Start": 1714754355,
+"End": 1714754359
+}
+,
+{
+"ID": 514,
+"Binary": "DGLTC_LOTTERY",
+"State": 4,
+"Progress": 100,
+"Start": 1714754355,
+"End": 1714754359
+}
+,
+{
+"ID": 515,
+"Binary": "DGLTC_LOTTERY",
+"State": 4,
+"Progress": 100,
+"Start": 1714754355,
+"End": 1714754358
+}
+,
+{
+"ID": 516,
+"Binary": "DGLTC_LOTTERY",
+"State": 4,
+"Progress": 100,
+"Start": 1714754355,
+"End": 1714754358
+}
+,
+{
+"ID": 517,
+"Binary": "DGLTC_LOTTERY",
+"State": 4,
+"Progress": 100,
+"Start": 1714754358,
+"End": 1714754360
+}
+,
+{
+"ID": 518,
+"Binary": "DGLTC_LOTTERY",
+"State": 4,
+"Progress": 100,
+"Start": 1714754358,
+"End": 1714754361
+}
+,
+{
+"ID": 519,
+"Binary": "DGLTC_LOTTERY",
+"State": 4,
+"Progress": 100,
+"Start": 1714754359,
+"End": 1714754362
+}
+,
+{
+"ID": 520,
+"Binary": "DGLTC_LOTTERY",
+"State": 4,
+"Progress": 100,
+"Start": 1714754358,
+"End": 1714754362
 }
 ],
 "Nodes":[
@@ -235,8 +199,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.600000,
-"TasksCompleted": 47,
+"LoadAverage": 0.210000,
+"TasksCompleted": 54,
 "System": 5,
 "Enabled": 1
 }
@@ -246,8 +210,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 1.196289,
-"TasksCompleted": 77,
+"LoadAverage": 0.045898,
+"TasksCompleted": 91,
 "System": 5,
 "Enabled": 1
 }
@@ -257,8 +221,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 1.196289,
-"TasksCompleted": 75,
+"LoadAverage": 0.045898,
+"TasksCompleted": 89,
 "System": 5,
 "Enabled": 1
 }
@@ -268,8 +232,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 1.193359,
-"TasksCompleted": 80,
+"LoadAverage": 0.250977,
+"TasksCompleted": 94,
 "System": 5,
 "Enabled": 1
 }
@@ -277,10 +241,10 @@
 {
 "ID": "PI_KNS",
 "Class": 1,
-"Task": 419,
+"Task": 0,
 "CPUCount": 4,
-"LoadAverage": 2.780000,
-"TasksCompleted": 4,
+"LoadAverage": 0.320000,
+"TasksCompleted": 5,
 "System": 6,
 "Enabled": 1
 }
@@ -290,8 +254,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.280000,
-"TasksCompleted": 40,
+"LoadAverage": 0.020000,
+"TasksCompleted": 47,
 "System": 5,
 "Enabled": 1
 }
@@ -301,8 +265,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 1.193359,
-"TasksCompleted": 78,
+"LoadAverage": 0.250977,
+"TasksCompleted": 92,
 "System": 5,
 "Enabled": 1
 }
@@ -312,7 +276,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 4,
-"LoadAverage": 2.780000,
+"LoadAverage": 0.320000,
 "TasksCompleted": 4,
 "System": 6,
 "Enabled": 1
@@ -321,10 +285,10 @@
 {
 "ID": "PI_SOLAR",
 "Class": 1,
-"Task": 416,
+"Task": 0,
 "CPUCount": 4,
-"LoadAverage": 2.157227,
-"TasksCompleted": 4,
+"LoadAverage": 0.193359,
+"TasksCompleted": 5,
 "System": 6,
 "Enabled": 1
 }
@@ -343,10 +307,10 @@
 {
 "ID": "ABLACK",
 "Class": 1,
-"Task": 418,
-"CPUCount": 3,
-"LoadAverage": 10.840000,
-"TasksCompleted": 3,
+"Task": 0,
+"CPUCount": 1,
+"LoadAverage": 9.070000,
+"TasksCompleted": 4,
 "System": 6,
 "Enabled": 1
 }
@@ -356,7 +320,7 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 1.100098,
+"LoadAverage": 0.041992,
 "TasksCompleted": 0,
 "System": 5,
 "Enabled": 1
@@ -367,7 +331,7 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 1.196289,
+"LoadAverage": 0.045898,
 "TasksCompleted": 0,
 "System": 5,
 "Enabled": 1
@@ -378,7 +342,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 8,
-"LoadAverage": 1.538574,
+"LoadAverage": 1.223145,
 "TasksCompleted": 2,
 "System": 3,
 "Enabled": 1
