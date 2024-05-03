@@ -1,11 +1,11 @@
 {
-"CPU": 1.089873,
+"CPU": 2.242455,
 "Starttime": 1714745749,
-"Epoch": 1714745929,
+"Epoch": 1714746589,
 "Version": "0.8",
 "Utilization": 0.000000,
 "Connections": 0,
-"NodesCount": 0,
+"NodesCount": 9,
 "TasksNew": 0,
 "TasksCompleted": 0,
 "TasksRunning": 0,
@@ -14,4 +14,102 @@
 "Tasks":[
 ],
 "Nodes":[
+{
+"ID": "PI_KNS",
+"Class": 1,
+"Task": 0,
+"CPUCount": 4,
+"LoadAverage": 0.500000,
+"TasksCompleted": 0,
+"System": 6,
+"Enabled": 1
+}
+,
+{
+"ID": "PI_KNS",
+"Class": 1,
+"Task": 0,
+"CPUCount": 4,
+"LoadAverage": 0.500000,
+"TasksCompleted": 0,
+"System": 6,
+"Enabled": 1
+}
+,
+{
+"ID": "GS_WORK",
+"Class": 1,
+"Task": 0,
+"CPUCount": 1,
+"LoadAverage": 0.000000,
+"TasksCompleted": 0,
+"System": 5,
+"Enabled": 1
+}
+,
+{
+"ID": "J_PROX",
+"Class": 1,
+"Task": 0,
+"CPUCount": 2,
+"LoadAverage": 0.000000,
+"TasksCompleted": 0,
+"System": 5,
+"Enabled": 1
+}
+,
+{
+"ID": "GS_EXPLORER",
+"Class": 1,
+"Task": 0,
+"CPUCount": 1,
+"LoadAverage": 0.000000,
+"TasksCompleted": 0,
+"System": 5,
+"Enabled": 1
+}
+,
+{
+"ID": "J_PROX",
+"Class": 1,
+"Task": 0,
+"CPUCount": 2,
+"LoadAverage": 0.000000,
+"TasksCompleted": 0,
+"System": 5,
+"Enabled": 1
+}
+,
+{
+"ID": "PI_SOLAR",
+"Class": 1,
+"Task": 0,
+"CPUCount": 4,
+"LoadAverage": 0.185059,
+"TasksCompleted": 0,
+"System": 6,
+"Enabled": 1
+}
+,
+{
+"ID": "ABLACK",
+"Class": 1,
+"Task": 0,
+"CPUCount": 1,
+"LoadAverage": 8.760000,
+"TasksCompleted": 0,
+"System": 6,
+"Enabled": 1
+}
+,
+{
+"ID": "AWHITE",
+"Class": 1,
+"Task": 0,
+"CPUCount": 8,
+"LoadAverage": 0.000000,
+"TasksCompleted": 0,
+"System": 7,
+"Enabled": 1
+}
 ]}
