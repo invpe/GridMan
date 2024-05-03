@@ -1,206 +1,143 @@
 {
-"CPU": 58.706551,
+"CPU": 7.373890,
 "Starttime": 1714751364,
-"Epoch": 1714766964,
+"Epoch": 1714767564,
 "Version": "0.8",
 "Throttled": 2,
-"Utilization": 90.909096,
+"Utilization": 27.272728,
 "Connections": 2,
 "NodesCount": 11,
 "TasksNew": 0,
 "TasksCompleted": 10,
-"TasksRunning": 10,
+"TasksRunning": 3,
 "TasksFailed": 0,
-"TasksCount": 20,
+"TasksCount": 13,
 "Tasks":[
 {
-"ID": 1511,
+"ID": 1553,
 "Binary": "BTC_LOTTERY",
 "State": 2,
 "Progress": 0,
-"Start": 1714766928,
+"Start": 1714767232,
 "End": 0
 }
 ,
 {
-"ID": 1512,
+"ID": 1555,
 "Binary": "BTC_LOTTERY",
 "State": 2,
 "Progress": 0,
-"Start": 1714766928,
+"Start": 1714767232,
 "End": 0
 }
 ,
 {
-"ID": 1513,
+"ID": 1559,
 "Binary": "BTC_LOTTERY",
 "State": 2,
 "Progress": 0,
-"Start": 1714766928,
+"Start": 1714767232,
 "End": 0
 }
 ,
 {
-"ID": 1514,
-"Binary": "BTC_LOTTERY",
-"State": 2,
-"Progress": 0,
-"Start": 1714766928,
-"End": 0
-}
-,
-{
-"ID": 1515,
-"Binary": "BTC_LOTTERY",
-"State": 2,
-"Progress": 0,
-"Start": 1714766928,
-"End": 0
-}
-,
-{
-"ID": 1516,
-"Binary": "BTC_LOTTERY",
-"State": 2,
-"Progress": 0,
-"Start": 1714766928,
-"End": 0
-}
-,
-{
-"ID": 1517,
-"Binary": "BTC_LOTTERY",
-"State": 2,
-"Progress": 0,
-"Start": 1714766928,
-"End": 0
-}
-,
-{
-"ID": 1518,
-"Binary": "BTC_LOTTERY",
-"State": 2,
-"Progress": 0,
-"Start": 1714766928,
-"End": 0
-}
-,
-{
-"ID": 1519,
-"Binary": "BTC_LOTTERY",
-"State": 2,
-"Progress": 0,
-"Start": 1714766928,
-"End": 0
-}
-,
-{
-"ID": 1520,
-"Binary": "BTC_LOTTERY",
-"State": 2,
-"Progress": 0,
-"Start": 1714766928,
-"End": 0
-}
-,
-{
-"ID": 1521,
+"ID": 1631,
 "Binary": "DGLTC_LOTTERY",
 "State": 4,
 "Progress": 100,
-"Start": 1714766929,
-"End": 1714766933
+"Start": 1714767526,
+"End": 1714767529
 }
 ,
 {
-"ID": 1522,
+"ID": 1632,
 "Binary": "DGLTC_LOTTERY",
 "State": 4,
 "Progress": 100,
-"Start": 1714766952,
-"End": 1714766955
+"Start": 1714767526,
+"End": 1714767530
 }
 ,
 {
-"ID": 1523,
+"ID": 1633,
 "Binary": "DGLTC_LOTTERY",
 "State": 4,
 "Progress": 100,
-"Start": 1714766949,
-"End": 1714766952
+"Start": 1714767526,
+"End": 1714767529
 }
 ,
 {
-"ID": 1524,
+"ID": 1634,
 "Binary": "DGLTC_LOTTERY",
 "State": 4,
 "Progress": 100,
-"Start": 1714766958,
-"End": 1714766961
+"Start": 1714767526,
+"End": 1714767529
 }
 ,
 {
-"ID": 1525,
+"ID": 1635,
 "Binary": "DGLTC_LOTTERY",
 "State": 4,
 "Progress": 100,
-"Start": 1714766942,
-"End": 1714766945
+"Start": 1714767526,
+"End": 1714767530
 }
 ,
 {
-"ID": 1526,
+"ID": 1636,
 "Binary": "DGLTC_LOTTERY",
 "State": 4,
 "Progress": 100,
-"Start": 1714766939,
-"End": 1714766942
+"Start": 1714767526,
+"End": 1714767529
 }
 ,
 {
-"ID": 1527,
+"ID": 1637,
 "Binary": "DGLTC_LOTTERY",
 "State": 4,
 "Progress": 100,
-"Start": 1714766945,
-"End": 1714766949
+"Start": 1714767529,
+"End": 1714767533
 }
 ,
 {
-"ID": 1528,
+"ID": 1638,
 "Binary": "DGLTC_LOTTERY",
 "State": 4,
 "Progress": 100,
-"Start": 1714766955,
-"End": 1714766958
+"Start": 1714767529,
+"End": 1714767533
 }
 ,
 {
-"ID": 1529,
+"ID": 1639,
 "Binary": "DGLTC_LOTTERY",
 "State": 4,
 "Progress": 100,
-"Start": 1714766936,
-"End": 1714766939
+"Start": 1714767529,
+"End": 1714767532
 }
 ,
 {
-"ID": 1530,
+"ID": 1640,
 "Binary": "DGLTC_LOTTERY",
 "State": 4,
 "Progress": 100,
-"Start": 1714766933,
-"End": 1714766936
+"Start": 1714767529,
+"End": 1714767532
 }
 ],
 "Nodes":[
 {
 "ID": "P_PROX",
 "Class": 1,
-"Task": 1518,
+"Task": 0,
 "CPUCount": 2,
-"LoadAverage": 1.834961,
-"TasksCompleted": 252,
+"LoadAverage": 0.281250,
+"TasksCompleted": 270,
 "System": 5,
 "Enabled": 1
 }
@@ -208,10 +145,10 @@
 {
 "ID": "P_PROX",
 "Class": 1,
-"Task": 1511,
+"Task": 0,
 "CPUCount": 2,
-"LoadAverage": 1.834961,
-"TasksCompleted": 261,
+"LoadAverage": 0.281250,
+"TasksCompleted": 285,
 "System": 5,
 "Enabled": 1
 }
@@ -219,10 +156,10 @@
 {
 "ID": "ABLACK",
 "Class": 1,
-"Task": 1516,
-"CPUCount": 3,
-"LoadAverage": 9.960000,
-"TasksCompleted": 7,
+"Task": 0,
+"CPUCount": 1,
+"LoadAverage": 9.560000,
+"TasksCompleted": 9,
 "System": 6,
 "Enabled": 1
 }
@@ -230,10 +167,10 @@
 {
 "ID": "AWHITE",
 "Class": 1,
-"Task": 1520,
+"Task": 0,
 "CPUCount": 8,
 "LoadAverage": 0.000000,
-"TasksCompleted": 7,
+"TasksCompleted": 10,
 "System": 7,
 "Enabled": 1
 }
@@ -243,8 +180,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 1.416992,
-"TasksCompleted": 119,
+"LoadAverage": 0.070312,
+"TasksCompleted": 132,
 "System": 5,
 "Enabled": 1
 }
@@ -252,10 +189,10 @@
 {
 "ID": "J_PROX",
 "Class": 1,
-"Task": 1512,
+"Task": 0,
 "CPUCount": 2,
-"LoadAverage": 1.416992,
-"TasksCompleted": 111,
+"LoadAverage": 0.070312,
+"TasksCompleted": 125,
 "System": 5,
 "Enabled": 1
 }
@@ -263,10 +200,10 @@
 {
 "ID": "GS_WORK",
 "Class": 1,
-"Task": 1517,
+"Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.850000,
-"TasksCompleted": 63,
+"LoadAverage": 0.050000,
+"TasksCompleted": 72,
 "System": 5,
 "Enabled": 1
 }
@@ -274,10 +211,10 @@
 {
 "ID": "GS_EXPLORER",
 "Class": 1,
-"Task": 1514,
+"Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.810000,
-"TasksCompleted": 63,
+"LoadAverage": 0.140000,
+"TasksCompleted": 72,
 "System": 5,
 "Enabled": 1
 }
@@ -285,10 +222,10 @@
 {
 "ID": "PI_KNS",
 "Class": 1,
-"Task": 1519,
+"Task": 1559,
 "CPUCount": 4,
-"LoadAverage": 2.270000,
-"TasksCompleted": 8,
+"LoadAverage": 4.480000,
+"TasksCompleted": 10,
 "System": 6,
 "Enabled": 1
 }
@@ -296,10 +233,10 @@
 {
 "ID": "PI_KNS",
 "Class": 1,
-"Task": 1513,
+"Task": 1555,
 "CPUCount": 4,
-"LoadAverage": 2.270000,
-"TasksCompleted": 8,
+"LoadAverage": 4.480000,
+"TasksCompleted": 10,
 "System": 6,
 "Enabled": 1
 }
@@ -307,10 +244,10 @@
 {
 "ID": "PI_SOLAR",
 "Class": 1,
-"Task": 1515,
+"Task": 1553,
 "CPUCount": 4,
-"LoadAverage": 1.031250,
-"TasksCompleted": 3,
+"LoadAverage": 2.277832,
+"TasksCompleted": 5,
 "System": 6,
 "Enabled": 1
 }
@@ -320,7 +257,7 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 1.646484,
+"LoadAverage": 0.258301,
 "TasksCompleted": 0,
 "System": 5,
 "Enabled": 1
@@ -331,7 +268,7 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 1.646484,
+"LoadAverage": 0.258301,
 "TasksCompleted": 0,
 "System": 5,
 "Enabled": 1
