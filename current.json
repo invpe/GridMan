@@ -1,26 +1,385 @@
 {
-"CPU": 2.242455,
+"CPU": 2.282262,
 "Starttime": 1714745749,
-"Epoch": 1714746589,
+"Epoch": 1714747009,
 "Version": "0.8",
-"Utilization": 0.000000,
-"Connections": 0,
+"Utilization": 100.000000,
+"Connections": 3,
 "NodesCount": 9,
-"TasksNew": 0,
-"TasksCompleted": 0,
-"TasksRunning": 0,
+"TasksNew": 3,
+"TasksCompleted": 28,
+"TasksRunning": 9,
 "TasksFailed": 0,
-"TasksCount": 0,
+"TasksCount": 40,
 "Tasks":[
+{
+"ID": 21,
+"Binary": "HELIUM_MNEMONICS",
+"State": 4,
+"Progress": 100,
+"Start": 1714746968,
+"End": 1714746984
+}
+,
+{
+"ID": 22,
+"Binary": "HELIUM_MNEMONICS",
+"State": 4,
+"Progress": 100,
+"Start": 1714746968,
+"End": 1714746972
+}
+,
+{
+"ID": 23,
+"Binary": "HELIUM_MNEMONICS",
+"State": 4,
+"Progress": 100,
+"Start": 1714746968,
+"End": 1714746974
+}
+,
+{
+"ID": 24,
+"Binary": "HELIUM_MNEMONICS",
+"State": 4,
+"Progress": 100,
+"Start": 1714746968,
+"End": 1714746985
+}
+,
+{
+"ID": 25,
+"Binary": "HELIUM_MNEMONICS",
+"State": 4,
+"Progress": 100,
+"Start": 1714746968,
+"End": 1714746973
+}
+,
+{
+"ID": 26,
+"Binary": "HELIUM_MNEMONICS",
+"State": 4,
+"Progress": 100,
+"Start": 1714746968,
+"End": 1714746986
+}
+,
+{
+"ID": 27,
+"Binary": "HELIUM_MNEMONICS",
+"State": 4,
+"Progress": 100,
+"Start": 1714746968,
+"End": 1714746976
+}
+,
+{
+"ID": 28,
+"Binary": "HELIUM_MNEMONICS",
+"State": 4,
+"Progress": 100,
+"Start": 1714746968,
+"End": 1714746974
+}
+,
+{
+"ID": 29,
+"Binary": "HELIUM_MNEMONICS",
+"State": 4,
+"Progress": 100,
+"Start": 1714746968,
+"End": 1714746974
+}
+,
+{
+"ID": 30,
+"Binary": "HELIUM_MNEMONICS",
+"State": 4,
+"Progress": 100,
+"Start": 1714746972,
+"End": 1714746976
+}
+,
+{
+"ID": 31,
+"Binary": "HELIUM_MNEMONICS",
+"State": 4,
+"Progress": 100,
+"Start": 1714746986,
+"End": 1714746992
+}
+,
+{
+"ID": 32,
+"Binary": "HELIUM_MNEMONICS",
+"State": 4,
+"Progress": 100,
+"Start": 1714746986,
+"End": 1714746991
+}
+,
+{
+"ID": 33,
+"Binary": "HELIUM_MNEMONICS",
+"State": 4,
+"Progress": 100,
+"Start": 1714746986,
+"End": 1714747004
+}
+,
+{
+"ID": 34,
+"Binary": "HELIUM_MNEMONICS",
+"State": 4,
+"Progress": 100,
+"Start": 1714746986,
+"End": 1714746992
+}
+,
+{
+"ID": 35,
+"Binary": "HELIUM_MNEMONICS",
+"State": 4,
+"Progress": 100,
+"Start": 1714746986,
+"End": 1714746991
+}
+,
+{
+"ID": 36,
+"Binary": "HELIUM_MNEMONICS",
+"State": 4,
+"Progress": 100,
+"Start": 1714746986,
+"End": 1714746993
+}
+,
+{
+"ID": 37,
+"Binary": "HELIUM_MNEMONICS",
+"State": 4,
+"Progress": 100,
+"Start": 1714746986,
+"End": 1714747003
+}
+,
+{
+"ID": 38,
+"Binary": "HELIUM_MNEMONICS",
+"State": 4,
+"Progress": 100,
+"Start": 1714746986,
+"End": 1714747005
+}
+,
+{
+"ID": 39,
+"Binary": "HELIUM_MNEMONICS",
+"State": 4,
+"Progress": 100,
+"Start": 1714746986,
+"End": 1714746994
+}
+,
+{
+"ID": 40,
+"Binary": "HELIUM_MNEMONICS",
+"State": 4,
+"Progress": 100,
+"Start": 1714746992,
+"End": 1714746998
+}
+,
+{
+"ID": 41,
+"Binary": "DGLTC_LOTTERY",
+"State": 4,
+"Progress": 100,
+"Start": 1714746991,
+"End": 1714746997
+}
+,
+{
+"ID": 42,
+"Binary": "DGLTC_LOTTERY",
+"State": 4,
+"Progress": 100,
+"Start": 1714747002,
+"End": 1714747008
+}
+,
+{
+"ID": 43,
+"Binary": "DGLTC_LOTTERY",
+"State": 4,
+"Progress": 100,
+"Start": 1714746998,
+"End": 1714747005
+}
+,
+{
+"ID": 44,
+"Binary": "DGLTC_LOTTERY",
+"State": 4,
+"Progress": 100,
+"Start": 1714746996,
+"End": 1714747002
+}
+,
+{
+"ID": 45,
+"Binary": "DGLTC_LOTTERY",
+"State": 4,
+"Progress": 100,
+"Start": 1714747002,
+"End": 1714747008
+}
+,
+{
+"ID": 46,
+"Binary": "DGLTC_LOTTERY",
+"State": 4,
+"Progress": 100,
+"Start": 1714746993,
+"End": 1714747001
+}
+,
+{
+"ID": 47,
+"Binary": "DGLTC_LOTTERY",
+"State": 2,
+"Progress": 0,
+"Start": 1714747005,
+"End": 0
+}
+,
+{
+"ID": 48,
+"Binary": "DGLTC_LOTTERY",
+"State": 2,
+"Progress": 0,
+"Start": 1714747001,
+"End": 0
+}
+,
+{
+"ID": 49,
+"Binary": "DGLTC_LOTTERY",
+"State": 4,
+"Progress": 100,
+"Start": 1714746991,
+"End": 1714746996
+}
+,
+{
+"ID": 50,
+"Binary": "DGLTC_LOTTERY",
+"State": 4,
+"Progress": 100,
+"Start": 1714746997,
+"End": 1714747002
+}
+,
+{
+"ID": 51,
+"Binary": "HELIUM_MNEMONICS",
+"State": 2,
+"Progress": 0,
+"Start": 1714747005,
+"End": 0
+}
+,
+{
+"ID": 52,
+"Binary": "HELIUM_MNEMONICS",
+"State": 2,
+"Progress": 0,
+"Start": 1714747005,
+"End": 0
+}
+,
+{
+"ID": 53,
+"Binary": "HELIUM_MNEMONICS",
+"State": 2,
+"Progress": 0,
+"Start": 1714747005,
+"End": 0
+}
+,
+{
+"ID": 54,
+"Binary": "HELIUM_MNEMONICS",
+"State": 2,
+"Progress": 0,
+"Start": 1714747005,
+"End": 0
+}
+,
+{
+"ID": 55,
+"Binary": "HELIUM_MNEMONICS",
+"State": 2,
+"Progress": 0,
+"Start": 1714747005,
+"End": 0
+}
+,
+{
+"ID": 56,
+"Binary": "HELIUM_MNEMONICS",
+"State": 1,
+"Progress": 0,
+"Start": 0,
+"End": 0
+}
+,
+{
+"ID": 57,
+"Binary": "HELIUM_MNEMONICS",
+"State": 2,
+"Progress": 0,
+"Start": 1714747008,
+"End": 0
+}
+,
+{
+"ID": 58,
+"Binary": "HELIUM_MNEMONICS",
+"State": 2,
+"Progress": 0,
+"Start": 1714747008,
+"End": 0
+}
+,
+{
+"ID": 59,
+"Binary": "HELIUM_MNEMONICS",
+"State": 1,
+"Progress": 0,
+"Start": 0,
+"End": 0
+}
+,
+{
+"ID": 60,
+"Binary": "HELIUM_MNEMONICS",
+"State": 1,
+"Progress": 0,
+"Start": 0,
+"End": 0
+}
 ],
 "Nodes":[
 {
 "ID": "PI_KNS",
 "Class": 1,
-"Task": 0,
+"Task": 51,
 "CPUCount": 4,
-"LoadAverage": 0.500000,
-"TasksCompleted": 0,
+"LoadAverage": 1.880000,
+"TasksCompleted": 4,
 "System": 6,
 "Enabled": 1
 }
@@ -28,10 +387,10 @@
 {
 "ID": "PI_KNS",
 "Class": 1,
-"Task": 0,
+"Task": 55,
 "CPUCount": 4,
-"LoadAverage": 0.500000,
-"TasksCompleted": 0,
+"LoadAverage": 1.880000,
+"TasksCompleted": 3,
 "System": 6,
 "Enabled": 1
 }
@@ -39,10 +398,10 @@
 {
 "ID": "GS_WORK",
 "Class": 1,
-"Task": 0,
+"Task": 48,
 "CPUCount": 1,
-"LoadAverage": 0.000000,
-"TasksCompleted": 0,
+"LoadAverage": 0.660000,
+"TasksCompleted": 6,
 "System": 5,
 "Enabled": 1
 }
@@ -50,10 +409,10 @@
 {
 "ID": "J_PROX",
 "Class": 1,
-"Task": 0,
+"Task": 58,
 "CPUCount": 2,
-"LoadAverage": 0.000000,
-"TasksCompleted": 0,
+"LoadAverage": 0.818359,
+"TasksCompleted": 10,
 "System": 5,
 "Enabled": 1
 }
@@ -61,10 +420,10 @@
 {
 "ID": "GS_EXPLORER",
 "Class": 1,
-"Task": 0,
+"Task": 47,
 "CPUCount": 1,
-"LoadAverage": 0.000000,
-"TasksCompleted": 0,
+"LoadAverage": 0.540000,
+"TasksCompleted": 7,
 "System": 5,
 "Enabled": 1
 }
@@ -72,10 +431,10 @@
 {
 "ID": "J_PROX",
 "Class": 1,
-"Task": 0,
+"Task": 57,
 "CPUCount": 2,
-"LoadAverage": 0.000000,
-"TasksCompleted": 0,
+"LoadAverage": 0.818359,
+"TasksCompleted": 9,
 "System": 5,
 "Enabled": 1
 }
@@ -83,10 +442,10 @@
 {
 "ID": "PI_SOLAR",
 "Class": 1,
-"Task": 0,
+"Task": 54,
 "CPUCount": 4,
-"LoadAverage": 0.185059,
-"TasksCompleted": 0,
+"LoadAverage": 0.976074,
+"TasksCompleted": 3,
 "System": 6,
 "Enabled": 1
 }
@@ -94,10 +453,10 @@
 {
 "ID": "ABLACK",
 "Class": 1,
-"Task": 0,
-"CPUCount": 1,
-"LoadAverage": 8.760000,
-"TasksCompleted": 0,
+"Task": 52,
+"CPUCount": 3,
+"LoadAverage": 8.750000,
+"TasksCompleted": 3,
 "System": 6,
 "Enabled": 1
 }
@@ -105,11 +464,44 @@
 {
 "ID": "AWHITE",
 "Class": 1,
-"Task": 0,
+"Task": 53,
 "CPUCount": 8,
 "LoadAverage": 0.000000,
-"TasksCompleted": 0,
+"TasksCompleted": 3,
 "System": 7,
+"Enabled": 1
+}
+,
+{
+"ID": "LibClient",
+"Class": 2,
+"Task": 0,
+"CPUCount": 1,
+"LoadAverage": 0.145508,
+"TasksCompleted": 0,
+"System": 5,
+"Enabled": 1
+}
+,
+{
+"ID": "LibClient",
+"Class": 2,
+"Task": 0,
+"CPUCount": 1,
+"LoadAverage": 0.145508,
+"TasksCompleted": 0,
+"System": 5,
+"Enabled": 1
+}
+,
+{
+"ID": "LibClient",
+"Class": 2,
+"Task": 0,
+"CPUCount": 1,
+"LoadAverage": 0.158691,
+"TasksCompleted": 0,
+"System": 5,
 "Enabled": 1
 }
 ]}
