@@ -1,95 +1,131 @@
 {
-"CPU": 52.735992,
+"CPU": 1.005047,
 "Starttime": 1714648137,
-"Epoch": 1714698000,
+"Epoch": 1714698600,
 "Version": "0.8",
-"Utilization": 56.250000,
+"Utilization": 62.500000,
 "Connections": 2,
 "NodesCount": 16,
-"TasksNew": 0,
+"TasksNew": 3,
 "TasksCompleted": 0,
-"TasksRunning": 9,
+"TasksRunning": 10,
 "TasksFailed": 0,
-"TasksCount": 9,
+"TasksCount": 13,
 "Tasks":[
 {
-"ID": 7001,
+"ID": 7053,
 "Binary": "BTC_LOTTERY",
 "State": 2,
 "Progress": 0,
-"Start": 1714697852,
+"Start": 1714698131,
 "End": 0
 }
 ,
 {
-"ID": 7002,
+"ID": 7056,
 "Binary": "BTC_LOTTERY",
 "State": 2,
 "Progress": 0,
-"Start": 1714697852,
+"Start": 1714698131,
 "End": 0
 }
 ,
 {
-"ID": 7003,
+"ID": 7057,
 "Binary": "BTC_LOTTERY",
 "State": 2,
 "Progress": 0,
-"Start": 1714697852,
+"Start": 1714698131,
 "End": 0
 }
 ,
 {
-"ID": 7004,
-"Binary": "BTC_LOTTERY",
+"ID": 7141,
+"Binary": "DGLTC_LOTTERY",
 "State": 2,
 "Progress": 0,
-"Start": 1714697852,
+"Start": 1714698599,
 "End": 0
 }
 ,
 {
-"ID": 7005,
-"Binary": "BTC_LOTTERY",
+"ID": 7142,
+"Binary": "DGLTC_LOTTERY",
 "State": 2,
 "Progress": 0,
-"Start": 1714697852,
+"Start": 1714698599,
 "End": 0
 }
 ,
 {
-"ID": 7006,
-"Binary": "BTC_LOTTERY",
+"ID": 7143,
+"Binary": "DGLTC_LOTTERY",
 "State": 2,
 "Progress": 0,
-"Start": 1714697852,
+"Start": 1714698599,
 "End": 0
 }
 ,
 {
-"ID": 7007,
-"Binary": "BTC_LOTTERY",
+"ID": 7144,
+"Binary": "DGLTC_LOTTERY",
 "State": 2,
 "Progress": 0,
-"Start": 1714697852,
+"Start": 1714698599,
 "End": 0
 }
 ,
 {
-"ID": 7008,
-"Binary": "BTC_LOTTERY",
+"ID": 7145,
+"Binary": "DGLTC_LOTTERY",
 "State": 2,
 "Progress": 0,
-"Start": 1714697852,
+"Start": 1714698599,
 "End": 0
 }
 ,
 {
-"ID": 7009,
-"Binary": "BTC_LOTTERY",
+"ID": 7146,
+"Binary": "DGLTC_LOTTERY",
 "State": 2,
 "Progress": 0,
-"Start": 1714697852,
+"Start": 1714698599,
+"End": 0
+}
+,
+{
+"ID": 7147,
+"Binary": "DGLTC_LOTTERY",
+"State": 2,
+"Progress": 0,
+"Start": 1714698599,
+"End": 0
+}
+,
+{
+"ID": 7148,
+"Binary": "DGLTC_LOTTERY",
+"State": 1,
+"Progress": 0,
+"Start": 0,
+"End": 0
+}
+,
+{
+"ID": 7149,
+"Binary": "DGLTC_LOTTERY",
+"State": 1,
+"Progress": 0,
+"Start": 0,
+"End": 0
+}
+,
+{
+"ID": 7150,
+"Binary": "DGLTC_LOTTERY",
+"State": 1,
+"Progress": 0,
+"Start": 0,
 "End": 0
 }
 ],
@@ -97,10 +133,10 @@
 {
 "ID": "PI_GRIDMAN",
 "Class": 1,
-"Task": 7003,
+"Task": 0,
 "CPUCount": 4,
-"LoadAverage": 2.626953,
-"TasksCompleted": 147,
+"LoadAverage": 0.644531,
+"TasksCompleted": 149,
 "System": 6,
 "Enabled": 1
 }
@@ -108,10 +144,10 @@
 {
 "ID": "DELL2",
 "Class": 1,
-"Task": 0,
+"Task": 7141,
 "CPUCount": 8,
-"LoadAverage": 0.754883,
-"TasksCompleted": 1227,
+"LoadAverage": 0.278320,
+"TasksCompleted": 1244,
 "System": 5,
 "Enabled": 1
 }
@@ -119,10 +155,10 @@
 {
 "ID": "J_PROX",
 "Class": 1,
-"Task": 0,
+"Task": 7142,
 "CPUCount": 2,
-"LoadAverage": 0.459473,
-"TasksCompleted": 619,
+"LoadAverage": 0.040527,
+"TasksCompleted": 630,
 "System": 5,
 "Enabled": 1
 }
@@ -130,10 +166,10 @@
 {
 "ID": "J_PROX",
 "Class": 1,
-"Task": 0,
+"Task": 7143,
 "CPUCount": 2,
-"LoadAverage": 0.459473,
-"TasksCompleted": 619,
+"LoadAverage": 0.040527,
+"TasksCompleted": 630,
 "System": 5,
 "Enabled": 1
 }
@@ -141,10 +177,10 @@
 {
 "ID": "PI_SOLAR",
 "Class": 1,
-"Task": 7001,
+"Task": 7053,
 "CPUCount": 4,
-"LoadAverage": 2.006348,
-"TasksCompleted": 139,
+"LoadAverage": 2.168945,
+"TasksCompleted": 140,
 "System": 6,
 "Enabled": 1
 }
@@ -152,10 +188,10 @@
 {
 "ID": "DELL1",
 "Class": 1,
-"Task": 0,
+"Task": 7144,
 "CPUCount": 8,
-"LoadAverage": 0.754883,
-"TasksCompleted": 1193,
+"LoadAverage": 0.278320,
+"TasksCompleted": 1211,
 "System": 5,
 "Enabled": 1
 }
@@ -163,10 +199,10 @@
 {
 "ID": "DELL",
 "Class": 1,
-"Task": 0,
+"Task": 7145,
 "CPUCount": 8,
-"LoadAverage": 0.754883,
-"TasksCompleted": 1194,
+"LoadAverage": 0.278320,
+"TasksCompleted": 1212,
 "System": 5,
 "Enabled": 1
 }
@@ -174,10 +210,10 @@
 {
 "ID": "GS_WORK",
 "Class": 1,
-"Task": 0,
+"Task": 7146,
 "CPUCount": 1,
-"LoadAverage": 0.410000,
-"TasksCompleted": 572,
+"LoadAverage": 0.020000,
+"TasksCompleted": 583,
 "System": 5,
 "Enabled": 1
 }
@@ -185,10 +221,10 @@
 {
 "ID": "GS_EXPLORER",
 "Class": 1,
-"Task": 0,
+"Task": 7147,
 "CPUCount": 1,
-"LoadAverage": 0.260000,
-"TasksCompleted": 599,
+"LoadAverage": 0.030000,
+"TasksCompleted": 610,
 "System": 5,
 "Enabled": 1
 }
@@ -196,10 +232,10 @@
 {
 "ID": "PI_KNS",
 "Class": 1,
-"Task": 7005,
+"Task": 7056,
 "CPUCount": 4,
-"LoadAverage": 4.190000,
-"TasksCompleted": 145,
+"LoadAverage": 4.760000,
+"TasksCompleted": 146,
 "System": 6,
 "Enabled": 1
 }
@@ -207,10 +243,10 @@
 {
 "ID": "PI_KNS",
 "Class": 1,
-"Task": 7006,
+"Task": 7057,
 "CPUCount": 4,
-"LoadAverage": 4.190000,
-"TasksCompleted": 46,
+"LoadAverage": 4.760000,
+"TasksCompleted": 47,
 "System": 6,
 "Enabled": 1
 }
@@ -218,10 +254,10 @@
 {
 "ID": "PI_WIFI",
 "Class": 1,
-"Task": 7004,
+"Task": 0,
 "CPUCount": 4,
-"LoadAverage": 5.610000,
-"TasksCompleted": 45,
+"LoadAverage": 1.450000,
+"TasksCompleted": 47,
 "System": 6,
 "Enabled": 1
 }
@@ -229,10 +265,10 @@
 {
 "ID": "AWHITE",
 "Class": 1,
-"Task": 7002,
+"Task": 0,
 "CPUCount": 8,
 "LoadAverage": 0.000000,
-"TasksCompleted": 41,
+"TasksCompleted": 43,
 "System": 7,
 "Enabled": 1
 }
@@ -240,10 +276,10 @@
 {
 "ID": "PI_WIFI",
 "Class": 1,
-"Task": 7009,
+"Task": 0,
 "CPUCount": 4,
-"LoadAverage": 5.640000,
-"TasksCompleted": 37,
+"LoadAverage": 1.450000,
+"TasksCompleted": 39,
 "System": 6,
 "Enabled": 1
 }
@@ -251,10 +287,10 @@
 {
 "ID": "PI_WIFI",
 "Class": 1,
-"Task": 7007,
+"Task": 0,
 "CPUCount": 4,
-"LoadAverage": 5.610000,
-"TasksCompleted": 33,
+"LoadAverage": 1.450000,
+"TasksCompleted": 34,
 "System": 6,
 "Enabled": 1
 }
@@ -262,10 +298,10 @@
 {
 "ID": "ABLACK",
 "Class": 1,
-"Task": 7008,
-"CPUCount": 3,
-"LoadAverage": 10.740000,
-"TasksCompleted": 31,
+"Task": 0,
+"CPUCount": 1,
+"LoadAverage": 9.230000,
+"TasksCompleted": 32,
 "System": 6,
 "Enabled": 1
 }
@@ -275,7 +311,7 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 4,
-"LoadAverage": 2.626953,
+"LoadAverage": 0.753418,
 "TasksCompleted": 0,
 "System": 6,
 "Enabled": 1
@@ -286,7 +322,7 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 8,
-"LoadAverage": 0.754883,
+"LoadAverage": 0.278320,
 "TasksCompleted": 0,
 "System": 5,
 "Enabled": 1
