@@ -9,7 +9,11 @@ A software legacy spanning a decade, originally designed for distributed computi
 
 ![image](https://github.com/invpe/GridMan/assets/106522950/f6591289-87e0-46f1-94cd-b368fa29a59e)
 
-1. To revive this nearly dormant project, I've developed a [BTC Lottery miner task](https://github.com/invpe/GridMan/blob/main/Tasks/btc.cpp). It operates through solo.ckpool.org and utilizes connected nodes to search for nonce, extranonce2, and ntime combinations that produce a double hash (256) of a block header lower than the target. It's a familiar tale of odds, but despite the slim chances of success, it serves as an excellent benchmarking and stress-testing exercise for this decade-old code. Numerous contributors have pooled their resources, often leveraging solar-powered nodes, in hopes of claiming a share of the rewards should fortune smile upon us 🤞 As is customary with such endeavors, the more nodes involved, the broader the scope of our search. A dedicated git page is [here](https://invpe.github.io/GridMan/p_lotto.html) that renders the last status of the search game. 
+1. To revive this nearly dormant project, I've developed a [BTC Lottery miner task](https://github.com/invpe/GridMan/blob/main/Tasks/btc.cpp). It operates through solo.ckpool.org and utilizes connected nodes to search for nonce, extranonce2, and ntime combinations that produce a double hash (256) of a block header lower than the target. It's a familiar tale of odds, but despite the slim chances of success, it serves as an excellent benchmarking and stress-testing exercise for this decade-old code. Numerous contributors have pooled their resources, often leveraging solar-powered nodes, in hopes of claiming a share of the rewards should fortune smile upon us 🤞 As is customary with such endeavors, the more nodes involved, the broader the scope of our search. A dedicated git page is [here](https://invpe.github.io/GridMan/p_lotto.html) that renders the last status of the search game.
+
+2. Another stress testing endeavor involves trying our luck in Dogecoin / Litecoin mining through the litesolo pool. This process closely resembles the one described above, but instead of double SHA256 hashing, we're employing Scrypt hashing. Given the free time slots in execution caused by the completion of one batch (such as BTC) and the subsequent wait for new mining notifications, we can utilize idling nodes for other tasks. For this purpose, a separate page is hosted [here](https://invpe.github.io/GridMan/p_dgltc.html).
+
+3. More to come for sure.
 
 # ❔ DETAILS of the page
 
