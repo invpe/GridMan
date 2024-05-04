@@ -1,12 +1,12 @@
 {
-"CPU": 1.590224,
+"CPU": 1.640167,
 "Starttime": 1714751364,
-"Epoch": 1714837764,
+"Epoch": 1714838364,
 "Version": "0.8",
 "Throttled": 8,
 "Utilization": 0.000000,
 "Connections": 2,
-"NodesCount": 7,
+"NodesCount": 10,
 "TasksNew": 0,
 "TasksCompleted": 0,
 "TasksRunning": 0,
@@ -20,7 +20,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 9.160000,
+"LoadAverage": 9.240000,
 "TasksCompleted": 110,
 "System": 6,
 "Enabled": 1
@@ -42,7 +42,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 4,
-"LoadAverage": 0.211426,
+"LoadAverage": 0.241699,
 "TasksCompleted": 105,
 "System": 6,
 "Enabled": 1
@@ -53,7 +53,7 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.094238,
+"LoadAverage": 0.000000,
 "TasksCompleted": 0,
 "System": 5,
 "Enabled": 1
@@ -64,7 +64,7 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.094238,
+"LoadAverage": 0.000000,
 "TasksCompleted": 0,
 "System": 5,
 "Enabled": 1
@@ -75,7 +75,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 8,
-"LoadAverage": 1.848633,
+"LoadAverage": 1.311523,
 "TasksCompleted": 2931,
 "System": 5,
 "Enabled": 1
@@ -86,7 +86,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 0.094238,
+"LoadAverage": 0.000000,
 "TasksCompleted": 58,
 "System": 5,
 "Enabled": 1
@@ -97,20 +97,53 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 0.094238,
+"LoadAverage": 0.000000,
 "TasksCompleted": 61,
 "System": 5,
 "Enabled": 1
 }
 ,
 {
-"ID": "IMAC1",
+"ID": "J_PROX",
 "Class": 1,
 "Task": 0,
-"CPUCount": 8,
-"LoadAverage": 1.370605,
+"CPUCount": 2,
+"LoadAverage": 0.000000,
 "TasksCompleted": 0,
-"System": 3,
+"System": 5,
+"Enabled": 1
+}
+,
+{
+"ID": "J_PROX",
+"Class": 1,
+"Task": 0,
+"CPUCount": 2,
+"LoadAverage": 0.000000,
+"TasksCompleted": 0,
+"System": 5,
+"Enabled": 1
+}
+,
+{
+"ID": "GS_EXPLORER",
+"Class": 1,
+"Task": 0,
+"CPUCount": 1,
+"LoadAverage": 0.000000,
+"TasksCompleted": 0,
+"System": 5,
+"Enabled": 1
+}
+,
+{
+"ID": "GS_WORK",
+"Class": 1,
+"Task": 0,
+"CPUCount": 1,
+"LoadAverage": 0.000000,
+"TasksCompleted": 0,
+"System": 5,
 "Enabled": 1
 }
 ]}
