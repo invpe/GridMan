@@ -1,12 +1,12 @@
 {
-"CPU": 1.521230,
+"CPU": 1.422356,
 "Starttime": 1714888439,
-"Epoch": 1714903199,
+"Epoch": 1714903799,
 "Version": "0.8",
 "Throttled": 0,
 "Utilization": 0.000000,
 "Connections": 2,
-"NodesCount": 8,
+"NodesCount": 9,
 "TasksNew": 0,
 "TasksCompleted": 0,
 "TasksRunning": 0,
@@ -20,7 +20,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 4,
-"LoadAverage": 0.207031,
+"LoadAverage": 0.207520,
 "TasksCompleted": 28,
 "System": 6,
 "Enabled": 1
@@ -31,7 +31,7 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.046875,
+"LoadAverage": 0.032715,
 "TasksCompleted": 0,
 "System": 5,
 "Enabled": 1
@@ -42,7 +42,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 4,
-"LoadAverage": 0.420000,
+"LoadAverage": 0.330000,
 "TasksCompleted": 18,
 "System": 6,
 "Enabled": 1
@@ -53,7 +53,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 4,
-"LoadAverage": 0.420000,
+"LoadAverage": 0.330000,
 "TasksCompleted": 19,
 "System": 6,
 "Enabled": 1
@@ -64,8 +64,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.000000,
-"TasksCompleted": 493,
+"LoadAverage": 0.040000,
+"TasksCompleted": 509,
 "System": 5,
 "Enabled": 1
 }
@@ -75,8 +75,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.000000,
-"TasksCompleted": 426,
+"LoadAverage": 0.140000,
+"TasksCompleted": 442,
 "System": 5,
 "Enabled": 1
 }
@@ -86,7 +86,7 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.046875,
+"LoadAverage": 0.032715,
 "TasksCompleted": 0,
 "System": 5,
 "Enabled": 1
@@ -97,8 +97,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 0.000000,
-"TasksCompleted": 639,
+"LoadAverage": 0.068848,
+"TasksCompleted": 660,
 "System": 5,
 "Enabled": 1
 }
@@ -108,8 +108,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 0.000000,
-"TasksCompleted": 596,
+"LoadAverage": 0.068848,
+"TasksCompleted": 617,
 "System": 5,
 "Enabled": 1
 }
@@ -119,9 +119,20 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 4,
-"LoadAverage": 8.950000,
+"LoadAverage": 9.730000,
 "TasksCompleted": 0,
 "System": 6,
+"Enabled": 1
+}
+,
+{
+"ID": "IMAC1",
+"Class": 1,
+"Task": 0,
+"CPUCount": 8,
+"LoadAverage": 1.301270,
+"TasksCompleted": 4,
+"System": 3,
 "Enabled": 1
 }
 ]}
