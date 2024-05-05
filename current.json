@@ -1,7 +1,7 @@
 {
-"CPU": 1.472557,
+"CPU": 1.455093,
 "Starttime": 1714888439,
-"Epoch": 1714950599,
+"Epoch": 1714951199,
 "Version": "0.8",
 "Throttled": 18,
 "Utilization": 12.500000,
@@ -28,7 +28,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 4,
-"LoadAverage": 0.221680,
+"LoadAverage": 0.173340,
 "TasksCompleted": 104,
 "System": 6,
 "Enabled": 1
@@ -39,7 +39,7 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.000488,
+"LoadAverage": 0.027344,
 "TasksCompleted": 0,
 "System": 5,
 "Enabled": 1
@@ -50,7 +50,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 4,
-"LoadAverage": 0.700000,
+"LoadAverage": 0.380000,
 "TasksCompleted": 96,
 "System": 6,
 "Enabled": 1
@@ -61,7 +61,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 4,
-"LoadAverage": 0.700000,
+"LoadAverage": 0.380000,
 "TasksCompleted": 95,
 "System": 6,
 "Enabled": 1
@@ -72,8 +72,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.020000,
-"TasksCompleted": 2145,
+"LoadAverage": 0.060000,
+"TasksCompleted": 2161,
 "System": 5,
 "Enabled": 1
 }
@@ -83,8 +83,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.060000,
-"TasksCompleted": 1818,
+"LoadAverage": 0.010000,
+"TasksCompleted": 1834,
 "System": 5,
 "Enabled": 1
 }
@@ -94,7 +94,7 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.000977,
+"LoadAverage": 0.029785,
 "TasksCompleted": 0,
 "System": 5,
 "Enabled": 1
@@ -105,8 +105,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 0.091309,
-"TasksCompleted": 2648,
+"LoadAverage": 0.144043,
+"TasksCompleted": 2672,
 "System": 5,
 "Enabled": 1
 }
@@ -116,8 +116,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 0.091309,
-"TasksCompleted": 2607,
+"LoadAverage": 0.144043,
+"TasksCompleted": 2631,
 "System": 5,
 "Enabled": 1
 }
@@ -127,7 +127,7 @@
 "Class": 1,
 "Task": 33780,
 "CPUCount": 4,
-"LoadAverage": 11.100000,
+"LoadAverage": 11.710000,
 "TasksCompleted": 9,
 "System": 6,
 "Enabled": 1
