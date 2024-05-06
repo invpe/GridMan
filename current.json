@@ -1,45 +1,18 @@
 {
-"CPU": 1.305002,
+"CPU": 1.505772,
 "Starttime": 1714888439,
-"Epoch": 1714967999,
+"Epoch": 1714968599,
 "Version": "0.8",
 "Throttled": 20,
-"Utilization": 50.000000,
+"Utilization": 12.500000,
 "Connections": 2,
 "NodesCount": 8,
 "TasksNew": 0,
 "TasksCompleted": 10,
-"TasksRunning": 4,
+"TasksRunning": 1,
 "TasksFailed": 0,
-"TasksCount": 14,
+"TasksCount": 11,
 "Tasks":[
-{
-"ID": 37054,
-"Binary": "BTC_LOTTERY",
-"State": 2,
-"Progress": 0,
-"Start": 1714967784,
-"End": 0
-}
-,
-{
-"ID": 37055,
-"Binary": "BTC_LOTTERY",
-"State": 2,
-"Progress": 0,
-"Start": 1714967784,
-"End": 0
-}
-,
-{
-"ID": 37057,
-"Binary": "BTC_LOTTERY",
-"State": 2,
-"Progress": 0,
-"Start": 1714967784,
-"End": 0
-}
-,
 {
 "ID": 37059,
 "Binary": "BTC_LOTTERY",
@@ -50,103 +23,103 @@
 }
 ,
 {
-"ID": 37111,
+"ID": 37201,
 "Binary": "DGLTC_LOTTERY",
 "State": 4,
 "Progress": 100,
-"Start": 1714967942,
-"End": 1714967944
+"Start": 1714968583,
+"End": 1714968585
 }
 ,
 {
-"ID": 37112,
+"ID": 37202,
 "Binary": "DGLTC_LOTTERY",
 "State": 4,
 "Progress": 100,
-"Start": 1714967942,
-"End": 1714967944
+"Start": 1714968583,
+"End": 1714968585
 }
 ,
 {
-"ID": 37113,
+"ID": 37203,
 "Binary": "DGLTC_LOTTERY",
 "State": 4,
 "Progress": 100,
-"Start": 1714967942,
-"End": 1714967944
+"Start": 1714968583,
+"End": 1714968585
 }
 ,
 {
-"ID": 37114,
+"ID": 37204,
 "Binary": "DGLTC_LOTTERY",
 "State": 4,
 "Progress": 100,
-"Start": 1714967942,
-"End": 1714967944
+"Start": 1714968583,
+"End": 1714968585
 }
 ,
 {
-"ID": 37115,
+"ID": 37205,
 "Binary": "DGLTC_LOTTERY",
 "State": 4,
 "Progress": 100,
-"Start": 1714967944,
-"End": 1714967946
+"Start": 1714968587,
+"End": 1714968589
 }
 ,
 {
-"ID": 37116,
+"ID": 37206,
 "Binary": "DGLTC_LOTTERY",
 "State": 4,
 "Progress": 100,
-"Start": 1714967944,
-"End": 1714967946
+"Start": 1714968585,
+"End": 1714968588
 }
 ,
 {
-"ID": 37117,
+"ID": 37207,
 "Binary": "DGLTC_LOTTERY",
 "State": 4,
 "Progress": 100,
-"Start": 1714967944,
-"End": 1714967947
+"Start": 1714968585,
+"End": 1714968587
 }
 ,
 {
-"ID": 37118,
+"ID": 37208,
 "Binary": "DGLTC_LOTTERY",
 "State": 4,
 "Progress": 100,
-"Start": 1714967944,
-"End": 1714967947
+"Start": 1714968587,
+"End": 1714968590
 }
 ,
 {
-"ID": 37119,
+"ID": 37209,
 "Binary": "DGLTC_LOTTERY",
 "State": 4,
 "Progress": 100,
-"Start": 1714967946,
-"End": 1714967948
+"Start": 1714968585,
+"End": 1714968587
 }
 ,
 {
-"ID": 37120,
+"ID": 37210,
 "Binary": "DGLTC_LOTTERY",
 "State": 4,
 "Progress": 100,
-"Start": 1714967946,
-"End": 1714967948
+"Start": 1714968585,
+"End": 1714968588
 }
 ],
 "Nodes":[
 {
 "ID": "PI_SOLAR",
 "Class": 1,
-"Task": 37055,
+"Task": 0,
 "CPUCount": 4,
-"LoadAverage": 2.226562,
-"TasksCompleted": 140,
+"LoadAverage": 0.261719,
+"TasksCompleted": 141,
 "System": 6,
 "Enabled": 1
 }
@@ -156,7 +129,7 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.015137,
+"LoadAverage": 0.037598,
 "TasksCompleted": 0,
 "System": 5,
 "Enabled": 1
@@ -167,8 +140,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.220000,
-"TasksCompleted": 2743,
+"LoadAverage": 0.040000,
+"TasksCompleted": 2761,
 "System": 5,
 "Enabled": 1
 }
@@ -178,8 +151,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.270000,
-"TasksCompleted": 2385,
+"LoadAverage": 0.180000,
+"TasksCompleted": 2403,
 "System": 5,
 "Enabled": 1
 }
@@ -189,7 +162,7 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.016602,
+"LoadAverage": 0.041016,
 "TasksCompleted": 0,
 "System": 5,
 "Enabled": 1
@@ -200,8 +173,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 1.157715,
-"TasksCompleted": 3351,
+"LoadAverage": 0.141602,
+"TasksCompleted": 3378,
 "System": 5,
 "Enabled": 1
 }
@@ -211,8 +184,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 1.157715,
-"TasksCompleted": 3341,
+"LoadAverage": 0.141602,
+"TasksCompleted": 3368,
 "System": 5,
 "Enabled": 1
 }
@@ -220,10 +193,10 @@
 {
 "ID": "PI_KNS",
 "Class": 1,
-"Task": 37054,
+"Task": 0,
 "CPUCount": 4,
-"LoadAverage": 4.690000,
-"TasksCompleted": 19,
+"LoadAverage": 0.660000,
+"TasksCompleted": 20,
 "System": 6,
 "Enabled": 1
 }
@@ -231,10 +204,10 @@
 {
 "ID": "PI_KNS",
 "Class": 1,
-"Task": 37057,
+"Task": 0,
 "CPUCount": 4,
-"LoadAverage": 4.690000,
-"TasksCompleted": 19,
+"LoadAverage": 0.660000,
+"TasksCompleted": 20,
 "System": 6,
 "Enabled": 1
 }
@@ -244,7 +217,7 @@
 "Class": 1,
 "Task": 37059,
 "CPUCount": 4,
-"LoadAverage": 11.430000,
+"LoadAverage": 10.930000,
 "TasksCompleted": 4,
 "System": 6,
 "Enabled": 1
