@@ -1,12 +1,12 @@
 {
-"CPU": 1.521994,
-"Starttime": 1714888439,
-"Epoch": 1715000399,
+"CPU": 1.524033,
+"Starttime": 1715001162,
+"Epoch": 1715001582,
 "Version": "0.8",
-"Throttled": 22,
-"Utilization": 25.000000,
+"Throttled": 0,
+"Utilization": 28.571430,
 "Connections": 2,
-"NodesCount": 8,
+"NodesCount": 7,
 "TasksNew": 0,
 "TasksCompleted": 0,
 "TasksRunning": 2,
@@ -14,42 +14,53 @@
 "TasksCount": 2,
 "Tasks":[
 {
-"ID": 42744,
+"ID": 42824,
 "Binary": "BTC_LOTTERY",
 "State": 2,
 "Progress": 0,
-"Start": 1714999983,
+"Start": 1715001165,
 "End": 0
 }
 ,
 {
-"ID": 42747,
+"ID": 42828,
 "Binary": "BTC_LOTTERY",
 "State": 2,
 "Progress": 0,
-"Start": 1714999983,
+"Start": 1715001165,
 "End": 0
 }
 ],
 "Nodes":[
 {
-"ID": "PI_SOLAR",
+"ID": "PI_KNS",
 "Class": 1,
-"Task": 0,
+"Task": 42828,
 "CPUCount": 4,
-"LoadAverage": 0.145508,
-"TasksCompleted": 289,
+"LoadAverage": 4.240000,
+"TasksCompleted": 0,
 "System": 6,
 "Enabled": 1
 }
 ,
 {
-"ID": "LibClient",
-"Class": 2,
+"ID": "PI_KNS",
+"Class": 1,
+"Task": 42824,
+"CPUCount": 4,
+"LoadAverage": 4.240000,
+"TasksCompleted": 0,
+"System": 6,
+"Enabled": 1
+}
+,
+{
+"ID": "GS_WORK",
+"Class": 1,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.020020,
-"TasksCompleted": 0,
+"LoadAverage": 0.040000,
+"TasksCompleted": 5,
 "System": 5,
 "Enabled": 1
 }
@@ -60,18 +71,29 @@
 "Task": 0,
 "CPUCount": 1,
 "LoadAverage": 0.000000,
-"TasksCompleted": 3723,
+"TasksCompleted": 8,
 "System": 5,
 "Enabled": 1
 }
 ,
 {
-"ID": "GS_WORK",
+"ID": "J_PROX",
 "Class": 1,
 "Task": 0,
-"CPUCount": 1,
-"LoadAverage": 0.010000,
-"TasksCompleted": 3337,
+"CPUCount": 2,
+"LoadAverage": 0.090820,
+"TasksCompleted": 11,
+"System": 5,
+"Enabled": 1
+}
+,
+{
+"ID": "J_PROX",
+"Class": 1,
+"Task": 0,
+"CPUCount": 2,
+"LoadAverage": 0.090820,
+"TasksCompleted": 12,
 "System": 5,
 "Enabled": 1
 }
@@ -81,53 +103,20 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.021973,
+"LoadAverage": 0.084473,
 "TasksCompleted": 0,
 "System": 5,
 "Enabled": 1
 }
 ,
 {
-"ID": "J_PROX",
-"Class": 1,
+"ID": "LibClient",
+"Class": 2,
 "Task": 0,
-"CPUCount": 2,
-"LoadAverage": 0.031738,
-"TasksCompleted": 4871,
+"CPUCount": 1,
+"LoadAverage": 0.077637,
+"TasksCompleted": 0,
 "System": 5,
-"Enabled": 1
-}
-,
-{
-"ID": "J_PROX",
-"Class": 1,
-"Task": 0,
-"CPUCount": 2,
-"LoadAverage": 0.031738,
-"TasksCompleted": 4868,
-"System": 5,
-"Enabled": 1
-}
-,
-{
-"ID": "PI_KNS",
-"Class": 1,
-"Task": 42747,
-"CPUCount": 4,
-"LoadAverage": 4.560000,
-"TasksCompleted": 65,
-"System": 6,
-"Enabled": 1
-}
-,
-{
-"ID": "PI_KNS",
-"Class": 1,
-"Task": 42744,
-"CPUCount": 4,
-"LoadAverage": 4.560000,
-"TasksCompleted": 65,
-"System": 6,
 "Enabled": 1
 }
 ,
@@ -136,8 +125,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 9.190000,
-"TasksCompleted": 1,
+"LoadAverage": 9.550000,
+"TasksCompleted": 0,
 "System": 6,
 "Enabled": 1
 }
