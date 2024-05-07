@@ -1,116 +1,35 @@
 {
-"CPU": 1.406564,
+"CPU": 1.338464,
 "Starttime": 1715001162,
-"Epoch": 1715041182,
+"Epoch": 1715041782,
 "Version": "0.8",
 "Throttled": 14,
-"Utilization": 70.000000,
+"Utilization": 0.000000,
 "Connections": 2,
 "NodesCount": 10,
 "TasksNew": 0,
-"TasksCompleted": 3,
-"TasksRunning": 7,
+"TasksCompleted": 1,
+"TasksRunning": 0,
 "TasksFailed": 0,
-"TasksCount": 10,
+"TasksCount": 1,
 "Tasks":[
 {
-"ID": 46456,
-"Binary": "BTC_LOTTERY",
-"State": 2,
-"Progress": 0,
-"Start": 1715041099,
-"End": 0
-}
-,
-{
-"ID": 46457,
-"Binary": "BTC_LOTTERY",
+"ID": 46497,
+"Binary": "DGLTC_LOTTERY",
 "State": 4,
 "Progress": 100,
-"Start": 1715041099,
-"End": 1715041168
-}
-,
-{
-"ID": 46458,
-"Binary": "BTC_LOTTERY",
-"State": 2,
-"Progress": 0,
-"Start": 1715041099,
-"End": 0
-}
-,
-{
-"ID": 46459,
-"Binary": "BTC_LOTTERY",
-"State": 2,
-"Progress": 0,
-"Start": 1715041099,
-"End": 0
-}
-,
-{
-"ID": 46460,
-"Binary": "BTC_LOTTERY",
-"State": 4,
-"Progress": 100,
-"Start": 1715041099,
-"End": 1715041145
-}
-,
-{
-"ID": 46461,
-"Binary": "BTC_LOTTERY",
-"State": 4,
-"Progress": 100,
-"Start": 1715041099,
-"End": 1715041168
-}
-,
-{
-"ID": 46462,
-"Binary": "BTC_LOTTERY",
-"State": 2,
-"Progress": 0,
-"Start": 1715041099,
-"End": 0
-}
-,
-{
-"ID": 46463,
-"Binary": "BTC_LOTTERY",
-"State": 2,
-"Progress": 0,
-"Start": 1715041099,
-"End": 0
-}
-,
-{
-"ID": 46464,
-"Binary": "BTC_LOTTERY",
-"State": 2,
-"Progress": 0,
-"Start": 1715041099,
-"End": 0
-}
-,
-{
-"ID": 46465,
-"Binary": "BTC_LOTTERY",
-"State": 2,
-"Progress": 0,
-"Start": 1715041099,
-"End": 0
+"Start": 1715041722,
+"End": 1715041724
 }
 ],
 "Nodes":[
 {
 "ID": "PI_KNS",
 "Class": 1,
-"Task": 46464,
+"Task": 0,
 "CPUCount": 4,
-"LoadAverage": 3.400000,
-"TasksCompleted": 37,
+"LoadAverage": 0.910000,
+"TasksCompleted": 38,
 "System": 6,
 "Enabled": 1
 }
@@ -118,10 +37,10 @@
 {
 "ID": "PI_KNS",
 "Class": 1,
-"Task": 46462,
+"Task": 0,
 "CPUCount": 4,
-"LoadAverage": 3.400000,
-"TasksCompleted": 40,
+"LoadAverage": 0.910000,
+"TasksCompleted": 41,
 "System": 6,
 "Enabled": 1
 }
@@ -129,10 +48,10 @@
 {
 "ID": "GS_WORK",
 "Class": 1,
-"Task": 46465,
+"Task": 0,
 "CPUCount": 1,
-"LoadAverage": 1.430000,
-"TasksCompleted": 603,
+"LoadAverage": 0.010000,
+"TasksCompleted": 612,
 "System": 5,
 "Enabled": 1
 }
@@ -140,10 +59,10 @@
 {
 "ID": "GS_EXPLORER",
 "Class": 1,
-"Task": 46458,
+"Task": 0,
 "CPUCount": 1,
-"LoadAverage": 1.500000,
-"TasksCompleted": 604,
+"LoadAverage": 0.000000,
+"TasksCompleted": 610,
 "System": 5,
 "Enabled": 1
 }
@@ -153,8 +72,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 2.117676,
-"TasksCompleted": 774,
+"LoadAverage": 0.020508,
+"TasksCompleted": 782,
 "System": 5,
 "Enabled": 1
 }
@@ -164,8 +83,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 2.117676,
-"TasksCompleted": 762,
+"LoadAverage": 0.020508,
+"TasksCompleted": 770,
 "System": 5,
 "Enabled": 1
 }
@@ -175,7 +94,7 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.151855,
+"LoadAverage": 0.007324,
 "TasksCompleted": 0,
 "System": 5,
 "Enabled": 1
@@ -184,10 +103,10 @@
 {
 "ID": "ABLACK",
 "Class": 1,
-"Task": 46463,
-"CPUCount": 3,
-"LoadAverage": 10.550000,
-"TasksCompleted": 22,
+"Task": 0,
+"CPUCount": 1,
+"LoadAverage": 9.050000,
+"TasksCompleted": 23,
 "System": 6,
 "Enabled": 1
 }
@@ -195,10 +114,10 @@
 {
 "ID": "AWHITE",
 "Class": 1,
-"Task": 46456,
+"Task": 0,
 "CPUCount": 8,
 "LoadAverage": 0.000000,
-"TasksCompleted": 22,
+"TasksCompleted": 23,
 "System": 7,
 "Enabled": 1
 }
@@ -206,10 +125,10 @@
 {
 "ID": "GS_API",
 "Class": 1,
-"Task": 46459,
+"Task": 0,
 "CPUCount": 1,
-"LoadAverage": 1.490000,
-"TasksCompleted": 273,
+"LoadAverage": 0.000000,
+"TasksCompleted": 279,
 "System": 5,
 "Enabled": 1
 }
@@ -219,8 +138,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 0.690000,
-"TasksCompleted": 304,
+"LoadAverage": 0.480000,
+"TasksCompleted": 310,
 "System": 5,
 "Enabled": 1
 }
@@ -230,7 +149,7 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.151855,
+"LoadAverage": 0.007324,
 "TasksCompleted": 0,
 "System": 5,
 "Enabled": 1
