@@ -1,35 +1,18 @@
 {
-"CPU": 1.221144,
+"CPU": 1.488543,
 "Starttime": 1715001162,
-"Epoch": 1715118582,
+"Epoch": 1715119182,
 "Version": "0.8",
 "Throttled": 25,
 "Utilization": 0.000000,
 "Connections": 1,
 "NodesCount": 11,
 "TasksNew": 0,
-"TasksCompleted": 2,
+"TasksCompleted": 0,
 "TasksRunning": 0,
 "TasksFailed": 0,
-"TasksCount": 2,
+"TasksCount": 0,
 "Tasks":[
-{
-"ID": 53386,
-"Binary": "BTC_LOTTERY",
-"State": 4,
-"Progress": 100,
-"Start": 1715118327,
-"End": 1715118578
-}
-,
-{
-"ID": 53391,
-"Binary": "BTC_LOTTERY",
-"State": 4,
-"Progress": 100,
-"Start": 1715118327,
-"End": 1715118560
-}
 ],
 "Nodes":[
 {
@@ -48,7 +31,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 9.190000,
+"LoadAverage": 9.310000,
 "TasksCompleted": 47,
 "System": 6,
 "Enabled": 1
@@ -59,7 +42,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 0.481934,
+"LoadAverage": 0.066895,
 "TasksCompleted": 50,
 "System": 5,
 "Enabled": 1
@@ -70,7 +53,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 0.481934,
+"LoadAverage": 0.066895,
 "TasksCompleted": 46,
 "System": 5,
 "Enabled": 1
@@ -81,7 +64,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.540000,
+"LoadAverage": 0.000000,
 "TasksCompleted": 44,
 "System": 5,
 "Enabled": 1
@@ -92,7 +75,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.590000,
+"LoadAverage": 0.000000,
 "TasksCompleted": 41,
 "System": 5,
 "Enabled": 1
@@ -103,7 +86,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 1.410000,
+"LoadAverage": 0.030000,
 "TasksCompleted": 43,
 "System": 5,
 "Enabled": 1
@@ -114,7 +97,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 0.470000,
+"LoadAverage": 0.280000,
 "TasksCompleted": 42,
 "System": 5,
 "Enabled": 1
@@ -125,7 +108,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 4,
-"LoadAverage": 0.690000,
+"LoadAverage": 0.520000,
 "TasksCompleted": 40,
 "System": 6,
 "Enabled": 1
@@ -136,7 +119,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 4,
-"LoadAverage": 0.690000,
+"LoadAverage": 0.520000,
 "TasksCompleted": 41,
 "System": 6,
 "Enabled": 1
@@ -147,7 +130,7 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.061523,
+"LoadAverage": 0.021973,
 "TasksCompleted": 0,
 "System": 5,
 "Enabled": 1
@@ -158,7 +141,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 8,
-"LoadAverage": 2.310059,
+"LoadAverage": 3.640137,
 "TasksCompleted": 8,
 "System": 3,
 "Enabled": 1
