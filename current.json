@@ -1,107 +1,71 @@
 {
-"CPU": 1.389354,
+"CPU": 1.439571,
 "Starttime": 1715001162,
-"Epoch": 1715070582,
+"Epoch": 1715071182,
 "Version": "0.8",
 "Throttled": 18,
-"Utilization": 50.000000,
+"Utilization": 0.000000,
 "Connections": 2,
 "NodesCount": 10,
 "TasksNew": 0,
-"TasksCompleted": 4,
-"TasksRunning": 5,
+"TasksCompleted": 5,
+"TasksRunning": 0,
 "TasksFailed": 0,
-"TasksCount": 9,
+"TasksCount": 5,
 "Tasks":[
 {
-"ID": 49221,
-"Binary": "BTC_LOTTERY",
+"ID": 49276,
+"Binary": "DGLTC_LOTTERY",
 "State": 4,
 "Progress": 100,
-"Start": 1715070460,
-"End": 1715070529
+"Start": 1715071127,
+"End": 1715071129
 }
 ,
 {
-"ID": 49222,
-"Binary": "BTC_LOTTERY",
+"ID": 49277,
+"Binary": "DGLTC_LOTTERY",
 "State": 4,
 "Progress": 100,
-"Start": 1715070460,
-"End": 1715070529
+"Start": 1715071127,
+"End": 1715071129
 }
 ,
 {
-"ID": 49223,
-"Binary": "BTC_LOTTERY",
+"ID": 49278,
+"Binary": "DGLTC_LOTTERY",
 "State": 4,
 "Progress": 100,
-"Start": 1715070460,
-"End": 1715070554
+"Start": 1715071127,
+"End": 1715071129
 }
 ,
 {
-"ID": 49224,
-"Binary": "BTC_LOTTERY",
-"State": 2,
-"Progress": 0,
-"Start": 1715070460,
-"End": 0
-}
-,
-{
-"ID": 49226,
-"Binary": "BTC_LOTTERY",
-"State": 2,
-"Progress": 0,
-"Start": 1715070460,
-"End": 0
-}
-,
-{
-"ID": 49227,
-"Binary": "BTC_LOTTERY",
-"State": 2,
-"Progress": 0,
-"Start": 1715070460,
-"End": 0
-}
-,
-{
-"ID": 49228,
-"Binary": "BTC_LOTTERY",
-"State": 2,
-"Progress": 0,
-"Start": 1715070460,
-"End": 0
-}
-,
-{
-"ID": 49229,
-"Binary": "BTC_LOTTERY",
+"ID": 49279,
+"Binary": "DGLTC_LOTTERY",
 "State": 4,
 "Progress": 100,
-"Start": 1715070460,
-"End": 1715070551
+"Start": 1715071127,
+"End": 1715071129
 }
 ,
 {
-"ID": 49230,
-"Binary": "BTC_LOTTERY",
-"State": 2,
-"Progress": 0,
-"Start": 1715070460,
-"End": 0
+"ID": 49280,
+"Binary": "DGLTC_LOTTERY",
+"State": 4,
+"Progress": 100,
+"Start": 1715071127,
+"End": 1715071129
 }
 ],
 "Nodes":[
 {
 "ID": "GS_WORK",
 "Class": 1,
-"Task": 49228,
+"Task": 0,
 "CPUCount": 1,
-"LoadAverage": 1.940000,
-"TasksCompleted": 964,
+"LoadAverage": 0.110000,
+"TasksCompleted": 972,
 "System": 5,
 "Enabled": 1
 }
@@ -111,8 +75,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 1.220000,
-"TasksCompleted": 978,
+"LoadAverage": 0.000000,
+"TasksCompleted": 986,
 "System": 5,
 "Enabled": 1
 }
@@ -122,8 +86,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 1.615234,
-"TasksCompleted": 1189,
+"LoadAverage": 0.003418,
+"TasksCompleted": 1197,
 "System": 5,
 "Enabled": 1
 }
@@ -133,8 +97,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 1.615234,
-"TasksCompleted": 1167,
+"LoadAverage": 0.003418,
+"TasksCompleted": 1173,
 "System": 5,
 "Enabled": 1
 }
@@ -144,7 +108,7 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.000000,
+"LoadAverage": 0.056641,
 "TasksCompleted": 0,
 "System": 5,
 "Enabled": 1
@@ -153,10 +117,10 @@
 {
 "ID": "ABLACK",
 "Class": 1,
-"Task": 49226,
-"CPUCount": 3,
-"LoadAverage": 10.600000,
-"TasksCompleted": 68,
+"Task": 0,
+"CPUCount": 1,
+"LoadAverage": 9.590000,
+"TasksCompleted": 69,
 "System": 6,
 "Enabled": 1
 }
@@ -164,10 +128,10 @@
 {
 "ID": "AWHITE",
 "Class": 1,
-"Task": 49230,
+"Task": 0,
 "CPUCount": 8,
 "LoadAverage": 0.000000,
-"TasksCompleted": 66,
+"TasksCompleted": 67,
 "System": 7,
 "Enabled": 1
 }
@@ -177,8 +141,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 1.220000,
-"TasksCompleted": 665,
+"LoadAverage": 0.000000,
+"TasksCompleted": 669,
 "System": 5,
 "Enabled": 1
 }
@@ -188,8 +152,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 0.920000,
-"TasksCompleted": 838,
+"LoadAverage": 0.540000,
+"TasksCompleted": 845,
 "System": 5,
 "Enabled": 1
 }
@@ -199,7 +163,7 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.000000,
+"LoadAverage": 0.056641,
 "TasksCompleted": 0,
 "System": 5,
 "Enabled": 1
@@ -208,10 +172,10 @@
 {
 "ID": "PI_KNS",
 "Class": 1,
-"Task": 49224,
+"Task": 0,
 "CPUCount": 4,
-"LoadAverage": 4.630000,
-"TasksCompleted": 32,
+"LoadAverage": 0.570000,
+"TasksCompleted": 33,
 "System": 6,
 "Enabled": 1
 }
@@ -219,10 +183,10 @@
 {
 "ID": "PI_KNS",
 "Class": 1,
-"Task": 49227,
+"Task": 0,
 "CPUCount": 4,
-"LoadAverage": 4.630000,
-"TasksCompleted": 34,
+"LoadAverage": 0.570000,
+"TasksCompleted": 35,
 "System": 6,
 "Enabled": 1
 }
