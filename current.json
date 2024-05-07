@@ -1,27 +1,116 @@
 {
-"CPU": 1.623703,
+"CPU": 1.206434,
 "Starttime": 1715001162,
-"Epoch": 1715094582,
+"Epoch": 1715095182,
 "Version": "0.8",
 "Throttled": 18,
-"Utilization": 0.000000,
+"Utilization": 90.000000,
 "Connections": 2,
 "NodesCount": 10,
 "TasksNew": 0,
-"TasksCompleted": 0,
-"TasksRunning": 0,
+"TasksCompleted": 1,
+"TasksRunning": 9,
 "TasksFailed": 0,
-"TasksCount": 0,
+"TasksCount": 10,
 "Tasks":[
+{
+"ID": 51526,
+"Binary": "BTC_LOTTERY",
+"State": 2,
+"Progress": 0,
+"Start": 1715095114,
+"End": 0
+}
+,
+{
+"ID": 51527,
+"Binary": "BTC_LOTTERY",
+"State": 4,
+"Progress": 100,
+"Start": 1715095114,
+"End": 1715095163
+}
+,
+{
+"ID": 51528,
+"Binary": "BTC_LOTTERY",
+"State": 2,
+"Progress": 0,
+"Start": 1715095114,
+"End": 0
+}
+,
+{
+"ID": 51529,
+"Binary": "BTC_LOTTERY",
+"State": 2,
+"Progress": 0,
+"Start": 1715095114,
+"End": 0
+}
+,
+{
+"ID": 51530,
+"Binary": "BTC_LOTTERY",
+"State": 2,
+"Progress": 0,
+"Start": 1715095114,
+"End": 0
+}
+,
+{
+"ID": 51531,
+"Binary": "BTC_LOTTERY",
+"State": 2,
+"Progress": 0,
+"Start": 1715095114,
+"End": 0
+}
+,
+{
+"ID": 51532,
+"Binary": "BTC_LOTTERY",
+"State": 2,
+"Progress": 0,
+"Start": 1715095114,
+"End": 0
+}
+,
+{
+"ID": 51533,
+"Binary": "BTC_LOTTERY",
+"State": 2,
+"Progress": 0,
+"Start": 1715095114,
+"End": 0
+}
+,
+{
+"ID": 51534,
+"Binary": "BTC_LOTTERY",
+"State": 2,
+"Progress": 0,
+"Start": 1715095114,
+"End": 0
+}
+,
+{
+"ID": 51535,
+"Binary": "BTC_LOTTERY",
+"State": 2,
+"Progress": 0,
+"Start": 1715095114,
+"End": 0
+}
 ],
 "Nodes":[
 {
 "ID": "GS_WORK",
 "Class": 1,
-"Task": 0,
+"Task": 51529,
 "CPUCount": 1,
-"LoadAverage": 0.010000,
-"TasksCompleted": 1271,
+"LoadAverage": 1.370000,
+"TasksCompleted": 1275,
 "System": 5,
 "Enabled": 1
 }
@@ -29,10 +118,10 @@
 {
 "ID": "GS_EXPLORER",
 "Class": 1,
-"Task": 0,
+"Task": 51532,
 "CPUCount": 1,
-"LoadAverage": 0.030000,
-"TasksCompleted": 1299,
+"LoadAverage": 1.270000,
+"TasksCompleted": 1303,
 "System": 5,
 "Enabled": 1
 }
@@ -40,10 +129,10 @@
 {
 "ID": "J_PROX",
 "Class": 1,
-"Task": 0,
+"Task": 51528,
 "CPUCount": 2,
-"LoadAverage": 0.042969,
-"TasksCompleted": 1530,
+"LoadAverage": 2.652344,
+"TasksCompleted": 1535,
 "System": 5,
 "Enabled": 1
 }
@@ -51,10 +140,10 @@
 {
 "ID": "J_PROX",
 "Class": 1,
-"Task": 0,
+"Task": 51530,
 "CPUCount": 2,
-"LoadAverage": 0.042969,
-"TasksCompleted": 1511,
+"LoadAverage": 2.652344,
+"TasksCompleted": 1515,
 "System": 5,
 "Enabled": 1
 }
@@ -64,7 +153,7 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.188477,
+"LoadAverage": 0.135254,
 "TasksCompleted": 0,
 "System": 5,
 "Enabled": 1
@@ -73,10 +162,10 @@
 {
 "ID": "ABLACK",
 "Class": 1,
-"Task": 0,
-"CPUCount": 1,
-"LoadAverage": 9.020000,
-"TasksCompleted": 101,
+"Task": 51535,
+"CPUCount": 3,
+"LoadAverage": 10.390000,
+"TasksCompleted": 102,
 "System": 6,
 "Enabled": 1
 }
@@ -84,10 +173,10 @@
 {
 "ID": "AWHITE",
 "Class": 1,
-"Task": 0,
+"Task": 51526,
 "CPUCount": 8,
 "LoadAverage": 0.000000,
-"TasksCompleted": 98,
+"TasksCompleted": 99,
 "System": 7,
 "Enabled": 1
 }
@@ -95,10 +184,10 @@
 {
 "ID": "GS_API",
 "Class": 1,
-"Task": 0,
+"Task": 51534,
 "CPUCount": 1,
-"LoadAverage": 0.000000,
-"TasksCompleted": 972,
+"LoadAverage": 1.270000,
+"TasksCompleted": 977,
 "System": 5,
 "Enabled": 1
 }
@@ -108,8 +197,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 0.670000,
-"TasksCompleted": 1282,
+"LoadAverage": 0.880000,
+"TasksCompleted": 1287,
 "System": 5,
 "Enabled": 1
 }
@@ -119,7 +208,7 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.188477,
+"LoadAverage": 0.135254,
 "TasksCompleted": 0,
 "System": 5,
 "Enabled": 1
@@ -128,10 +217,10 @@
 {
 "ID": "PI_KNS",
 "Class": 1,
-"Task": 0,
+"Task": 51531,
 "CPUCount": 4,
-"LoadAverage": 0.420000,
-"TasksCompleted": 65,
+"LoadAverage": 4.840000,
+"TasksCompleted": 66,
 "System": 6,
 "Enabled": 1
 }
@@ -139,10 +228,10 @@
 {
 "ID": "PI_KNS",
 "Class": 1,
-"Task": 0,
+"Task": 51533,
 "CPUCount": 4,
-"LoadAverage": 0.420000,
-"TasksCompleted": 67,
+"LoadAverage": 4.840000,
+"TasksCompleted": 68,
 "System": 6,
 "Enabled": 1
 }
