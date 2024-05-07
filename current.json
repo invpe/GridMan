@@ -1,7 +1,7 @@
 {
-"CPU": 1.389121,
+"CPU": 1.623703,
 "Starttime": 1715001162,
-"Epoch": 1715093982,
+"Epoch": 1715094582,
 "Version": "0.8",
 "Throttled": 18,
 "Utilization": 0.000000,
@@ -20,8 +20,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.030000,
-"TasksCompleted": 1267,
+"LoadAverage": 0.010000,
+"TasksCompleted": 1271,
 "System": 5,
 "Enabled": 1
 }
@@ -31,8 +31,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.000000,
-"TasksCompleted": 1297,
+"LoadAverage": 0.030000,
+"TasksCompleted": 1299,
 "System": 5,
 "Enabled": 1
 }
@@ -42,8 +42,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 0.005859,
-"TasksCompleted": 1526,
+"LoadAverage": 0.042969,
+"TasksCompleted": 1530,
 "System": 5,
 "Enabled": 1
 }
@@ -53,8 +53,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 0.005859,
-"TasksCompleted": 1508,
+"LoadAverage": 0.042969,
+"TasksCompleted": 1511,
 "System": 5,
 "Enabled": 1
 }
@@ -64,7 +64,7 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.000000,
+"LoadAverage": 0.188477,
 "TasksCompleted": 0,
 "System": 5,
 "Enabled": 1
@@ -75,7 +75,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 9.060000,
+"LoadAverage": 9.020000,
 "TasksCompleted": 101,
 "System": 6,
 "Enabled": 1
@@ -98,7 +98,7 @@
 "Task": 0,
 "CPUCount": 1,
 "LoadAverage": 0.000000,
-"TasksCompleted": 969,
+"TasksCompleted": 972,
 "System": 5,
 "Enabled": 1
 }
@@ -108,8 +108,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 0.150000,
-"TasksCompleted": 1278,
+"LoadAverage": 0.670000,
+"TasksCompleted": 1282,
 "System": 5,
 "Enabled": 1
 }
@@ -119,7 +119,7 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.000000,
+"LoadAverage": 0.188477,
 "TasksCompleted": 0,
 "System": 5,
 "Enabled": 1
@@ -130,7 +130,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 4,
-"LoadAverage": 0.710000,
+"LoadAverage": 0.420000,
 "TasksCompleted": 65,
 "System": 6,
 "Enabled": 1
@@ -141,7 +141,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 4,
-"LoadAverage": 0.710000,
+"LoadAverage": 0.420000,
 "TasksCompleted": 67,
 "System": 6,
 "Enabled": 1
