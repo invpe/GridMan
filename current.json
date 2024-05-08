@@ -1,12 +1,12 @@
 {
-"CPU": 1.572432,
+"CPU": 1.204618,
 "Starttime": 1715001162,
-"Epoch": 1715132382,
+"Epoch": 1715132982,
 "Version": "0.8",
 "Throttled": 25,
 "Utilization": 0.000000,
 "Connections": 1,
-"NodesCount": 10,
+"NodesCount": 11,
 "TasksNew": 0,
 "TasksCompleted": 0,
 "TasksRunning": 0,
@@ -31,7 +31,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 9.040000,
+"LoadAverage": 9.120000,
 "TasksCompleted": 63,
 "System": 6,
 "Enabled": 1
@@ -42,7 +42,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 0.076660,
+"LoadAverage": 0.000000,
 "TasksCompleted": 64,
 "System": 5,
 "Enabled": 1
@@ -53,7 +53,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 0.076660,
+"LoadAverage": 0.000000,
 "TasksCompleted": 63,
 "System": 5,
 "Enabled": 1
@@ -64,7 +64,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.080000,
+"LoadAverage": 0.000000,
 "TasksCompleted": 60,
 "System": 5,
 "Enabled": 1
@@ -75,7 +75,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.080000,
+"LoadAverage": 0.000000,
 "TasksCompleted": 56,
 "System": 5,
 "Enabled": 1
@@ -86,7 +86,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.110000,
+"LoadAverage": 0.000000,
 "TasksCompleted": 58,
 "System": 5,
 "Enabled": 1
@@ -97,7 +97,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 0.460000,
+"LoadAverage": 0.390000,
 "TasksCompleted": 56,
 "System": 5,
 "Enabled": 1
@@ -108,7 +108,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 4,
-"LoadAverage": 0.360000,
+"LoadAverage": 0.450000,
 "TasksCompleted": 56,
 "System": 6,
 "Enabled": 1
@@ -119,7 +119,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 4,
-"LoadAverage": 0.360000,
+"LoadAverage": 0.450000,
 "TasksCompleted": 56,
 "System": 6,
 "Enabled": 1
@@ -130,9 +130,20 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.060547,
+"LoadAverage": 0.071777,
 "TasksCompleted": 0,
 "System": 5,
+"Enabled": 1
+}
+,
+{
+"ID": "IMAC1",
+"Class": 1,
+"Task": 0,
+"CPUCount": 8,
+"LoadAverage": 1.656738,
+"TasksCompleted": 0,
+"System": 3,
 "Enabled": 1
 }
 ]}
