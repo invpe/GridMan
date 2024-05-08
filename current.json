@@ -1,7 +1,7 @@
 {
-"CPU": 1.338016,
+"CPU": 1.288272,
 "Starttime": 1715001162,
-"Epoch": 1715128182,
+"Epoch": 1715128782,
 "Version": "0.8",
 "Throttled": 25,
 "Utilization": 0.000000,
@@ -31,7 +31,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 9.090000,
+"LoadAverage": 9.250000,
 "TasksCompleted": 56,
 "System": 6,
 "Enabled": 1
@@ -86,7 +86,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.000000,
+"LoadAverage": 0.010000,
 "TasksCompleted": 51,
 "System": 5,
 "Enabled": 1
@@ -97,7 +97,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 0.080000,
+"LoadAverage": 0.200000,
 "TasksCompleted": 49,
 "System": 5,
 "Enabled": 1
@@ -108,7 +108,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 4,
-"LoadAverage": 0.510000,
+"LoadAverage": 0.380000,
 "TasksCompleted": 49,
 "System": 6,
 "Enabled": 1
@@ -119,7 +119,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 4,
-"LoadAverage": 0.510000,
+"LoadAverage": 0.380000,
 "TasksCompleted": 49,
 "System": 6,
 "Enabled": 1
@@ -130,7 +130,7 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.070312,
+"LoadAverage": 0.065918,
 "TasksCompleted": 0,
 "System": 5,
 "Enabled": 1
