@@ -1,7 +1,7 @@
 {
-"CPU": 1.539749,
+"CPU": 1.321954,
 "Starttime": 1715001162,
-"Epoch": 1715153382,
+"Epoch": 1715153982,
 "Version": "0.8",
 "Throttled": 27,
 "Utilization": 0.000000,
@@ -21,7 +21,7 @@
 "Task": 0,
 "CPUCount": 8,
 "LoadAverage": 0.000000,
-"TasksCompleted": 98,
+"TasksCompleted": 99,
 "System": 7,
 "Enabled": 1
 }
@@ -31,8 +31,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 0.000000,
-"TasksCompleted": 78,
+"LoadAverage": 0.162598,
+"TasksCompleted": 80,
 "System": 5,
 "Enabled": 1
 }
@@ -42,8 +42,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 0.000000,
-"TasksCompleted": 77,
+"LoadAverage": 0.162598,
+"TasksCompleted": 79,
 "System": 5,
 "Enabled": 1
 }
@@ -53,8 +53,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.000000,
-"TasksCompleted": 75,
+"LoadAverage": 0.020000,
+"TasksCompleted": 76,
 "System": 5,
 "Enabled": 1
 }
@@ -64,8 +64,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.000000,
-"TasksCompleted": 70,
+"LoadAverage": 0.020000,
+"TasksCompleted": 71,
 "System": 5,
 "Enabled": 1
 }
@@ -75,8 +75,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.040000,
-"TasksCompleted": 73,
+"LoadAverage": 0.030000,
+"TasksCompleted": 74,
 "System": 5,
 "Enabled": 1
 }
@@ -86,8 +86,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 0.140000,
-"TasksCompleted": 71,
+"LoadAverage": 0.500000,
+"TasksCompleted": 73,
 "System": 5,
 "Enabled": 1
 }
@@ -97,7 +97,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 4,
-"LoadAverage": 0.410000,
+"LoadAverage": 0.660000,
 "TasksCompleted": 71,
 "System": 6,
 "Enabled": 1
@@ -108,7 +108,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 4,
-"LoadAverage": 0.410000,
+"LoadAverage": 0.660000,
 "TasksCompleted": 71,
 "System": 6,
 "Enabled": 1
@@ -119,7 +119,7 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.128906,
+"LoadAverage": 0.030273,
 "TasksCompleted": 0,
 "System": 5,
 "Enabled": 1
@@ -130,7 +130,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 8.670000,
+"LoadAverage": 8.990000,
 "TasksCompleted": 0,
 "System": 6,
 "Enabled": 1
