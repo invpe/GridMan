@@ -1,267 +1,42 @@
 {
-"CPU": 1.322840,
+"CPU": 1.438608,
 "Starttime": 1715001162,
-"Epoch": 1715188182,
+"Epoch": 1715188782,
 "Version": "0.8",
 "Throttled": 31,
-"Utilization": 100.000000,
+"Utilization": 27.272728,
 "Connections": 2,
 "NodesCount": 11,
-"TasksNew": 16,
-"TasksCompleted": 1,
-"TasksRunning": 11,
+"TasksNew": 0,
+"TasksCompleted": 0,
+"TasksRunning": 3,
 "TasksFailed": 0,
-"TasksCount": 28,
+"TasksCount": 3,
 "Tasks":[
-{
-"ID": 55337,
-"Binary": "HELIUM_MNEMONICS",
-"State": 2,
-"Progress": 0,
-"Start": 1715188035,
-"End": 0
-}
-,
-{
-"ID": 55338,
-"Binary": "HELIUM_MNEMONICS",
-"State": 2,
-"Progress": 0,
-"Start": 1715188035,
-"End": 0
-}
-,
-{
-"ID": 55340,
-"Binary": "HELIUM_MNEMONICS",
-"State": 1,
-"Progress": 0,
-"Start": 0,
-"End": 0
-}
-,
-{
-"ID": 55341,
-"Binary": "HELIUM_MNEMONICS",
-"State": 2,
-"Progress": 0,
-"Start": 1715188114,
-"End": 0
-}
-,
-{
-"ID": 55342,
-"Binary": "HELIUM_MNEMONICS",
-"State": 1,
-"Progress": 0,
-"Start": 0,
-"End": 0
-}
-,
-{
-"ID": 55343,
-"Binary": "HELIUM_MNEMONICS",
-"State": 1,
-"Progress": 0,
-"Start": 0,
-"End": 0
-}
-,
-{
-"ID": 55344,
-"Binary": "HELIUM_MNEMONICS",
-"State": 1,
-"Progress": 0,
-"Start": 0,
-"End": 0
-}
-,
 {
 "ID": 55345,
 "Binary": "HELIUM_MNEMONICS",
-"State": 1,
-"Progress": 0,
-"Start": 0,
-"End": 0
-}
-,
-{
-"ID": 55346,
-"Binary": "BTC_LOTTERY",
 "State": 2,
 "Progress": 0,
-"Start": 1715188074,
-"End": 0
-}
-,
-{
-"ID": 55347,
-"Binary": "BTC_LOTTERY",
-"State": 2,
-"Progress": 0,
-"Start": 1715188074,
-"End": 0
-}
-,
-{
-"ID": 55348,
-"Binary": "BTC_LOTTERY",
-"State": 2,
-"Progress": 0,
-"Start": 1715188074,
-"End": 0
-}
-,
-{
-"ID": 55349,
-"Binary": "BTC_LOTTERY",
-"State": 2,
-"Progress": 0,
-"Start": 1715188074,
-"End": 0
-}
-,
-{
-"ID": 55350,
-"Binary": "BTC_LOTTERY",
-"State": 4,
-"Progress": 100,
-"Start": 1715188074,
-"End": 1715188145
-}
-,
-{
-"ID": 55351,
-"Binary": "BTC_LOTTERY",
-"State": 1,
-"Progress": 0,
-"Start": 0,
-"End": 0
-}
-,
-{
-"ID": 55352,
-"Binary": "BTC_LOTTERY",
-"State": 2,
-"Progress": 0,
-"Start": 1715188074,
-"End": 0
-}
-,
-{
-"ID": 55353,
-"Binary": "BTC_LOTTERY",
-"State": 2,
-"Progress": 0,
-"Start": 1715188074,
-"End": 0
-}
-,
-{
-"ID": 55354,
-"Binary": "BTC_LOTTERY",
-"State": 1,
-"Progress": 0,
-"Start": 0,
-"End": 0
-}
-,
-{
-"ID": 55355,
-"Binary": "BTC_LOTTERY",
-"State": 1,
-"Progress": 0,
-"Start": 0,
-"End": 0
-}
-,
-{
-"ID": 55356,
-"Binary": "BTC_LOTTERY",
-"State": 1,
-"Progress": 0,
-"Start": 0,
-"End": 0
-}
-,
-{
-"ID": 55357,
-"Binary": "BTC_LOTTERY",
-"State": 1,
-"Progress": 0,
-"Start": 0,
-"End": 0
-}
-,
-{
-"ID": 55358,
-"Binary": "BTC_LOTTERY",
-"State": 1,
-"Progress": 0,
-"Start": 0,
-"End": 0
-}
-,
-{
-"ID": 55359,
-"Binary": "BTC_LOTTERY",
-"State": 1,
-"Progress": 0,
-"Start": 0,
+"Start": 1715188226,
 "End": 0
 }
 ,
 {
 "ID": 55360,
 "Binary": "BTC_LOTTERY",
-"State": 1,
-"Progress": 0,
-"Start": 0,
-"End": 0
-}
-,
-{
-"ID": 55361,
-"Binary": "BTC_LOTTERY",
-"State": 1,
-"Progress": 0,
-"Start": 0,
-"End": 0
-}
-,
-{
-"ID": 55362,
-"Binary": "BTC_LOTTERY",
-"State": 1,
-"Progress": 0,
-"Start": 0,
-"End": 0
-}
-,
-{
-"ID": 55363,
-"Binary": "BTC_LOTTERY",
 "State": 2,
 "Progress": 0,
-"Start": 1715188145,
-"End": 0
-}
-,
-{
-"ID": 55364,
-"Binary": "BTC_LOTTERY",
-"State": 2,
-"Progress": 0,
-"Start": 1715188081,
+"Start": 1715188431,
 "End": 0
 }
 ,
 {
 "ID": 55365,
 "Binary": "BTC_LOTTERY",
-"State": 1,
+"State": 2,
 "Progress": 0,
-"Start": 0,
+"Start": 1715188453,
 "End": 0
 }
 ],
@@ -269,10 +44,10 @@
 {
 "ID": "AWHITE",
 "Class": 1,
-"Task": 55364,
+"Task": 0,
 "CPUCount": 8,
 "LoadAverage": 0.000000,
-"TasksCompleted": 297,
+"TasksCompleted": 298,
 "System": 7,
 "Enabled": 1
 }
@@ -280,10 +55,10 @@
 {
 "ID": "J_PROX",
 "Class": 1,
-"Task": 55347,
+"Task": 0,
 "CPUCount": 2,
-"LoadAverage": 3.310059,
-"TasksCompleted": 183,
+"LoadAverage": 0.286133,
+"TasksCompleted": 185,
 "System": 5,
 "Enabled": 1
 }
@@ -291,10 +66,10 @@
 {
 "ID": "J_PROX",
 "Class": 1,
-"Task": 55352,
+"Task": 0,
 "CPUCount": 2,
-"LoadAverage": 3.310059,
-"TasksCompleted": 184,
+"LoadAverage": 0.286133,
+"TasksCompleted": 186,
 "System": 5,
 "Enabled": 1
 }
@@ -302,10 +77,10 @@
 {
 "ID": "GS_EXPLORER",
 "Class": 1,
-"Task": 55346,
+"Task": 55360,
 "CPUCount": 1,
-"LoadAverage": 1.710000,
-"TasksCompleted": 163,
+"LoadAverage": 2.050000,
+"TasksCompleted": 164,
 "System": 5,
 "Enabled": 1
 }
@@ -313,10 +88,10 @@
 {
 "ID": "GS_API",
 "Class": 1,
-"Task": 55349,
+"Task": 55365,
 "CPUCount": 1,
-"LoadAverage": 1.630000,
-"TasksCompleted": 156,
+"LoadAverage": 2.000000,
+"TasksCompleted": 157,
 "System": 5,
 "Enabled": 1
 }
@@ -324,10 +99,10 @@
 {
 "ID": "GS_WORK",
 "Class": 1,
-"Task": 55348,
+"Task": 0,
 "CPUCount": 1,
-"LoadAverage": 1.690000,
-"TasksCompleted": 152,
+"LoadAverage": 0.050000,
+"TasksCompleted": 153,
 "System": 5,
 "Enabled": 1
 }
@@ -335,10 +110,10 @@
 {
 "ID": "L2_PROD",
 "Class": 1,
-"Task": 55353,
+"Task": 0,
 "CPUCount": 2,
-"LoadAverage": 2.800000,
-"TasksCompleted": 200,
+"LoadAverage": 0.790000,
+"TasksCompleted": 203,
 "System": 5,
 "Enabled": 1
 }
@@ -346,10 +121,10 @@
 {
 "ID": "PI_KNS",
 "Class": 1,
-"Task": 55338,
+"Task": 0,
 "CPUCount": 4,
-"LoadAverage": 4.600000,
-"TasksCompleted": 222,
+"LoadAverage": 0.280000,
+"TasksCompleted": 225,
 "System": 6,
 "Enabled": 1
 }
@@ -357,10 +132,10 @@
 {
 "ID": "PI_KNS",
 "Class": 1,
-"Task": 55337,
+"Task": 0,
 "CPUCount": 4,
-"LoadAverage": 4.600000,
-"TasksCompleted": 223,
+"LoadAverage": 0.280000,
+"TasksCompleted": 226,
 "System": 6,
 "Enabled": 1
 }
@@ -370,7 +145,7 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.212891,
+"LoadAverage": 0.118164,
 "TasksCompleted": 0,
 "System": 5,
 "Enabled": 1
@@ -381,7 +156,7 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.212891,
+"LoadAverage": 0.118164,
 "TasksCompleted": 0,
 "System": 5,
 "Enabled": 1
@@ -390,10 +165,10 @@
 {
 "ID": "IMAC1",
 "Class": 1,
-"Task": 55363,
+"Task": 0,
 "CPUCount": 8,
-"LoadAverage": 2.718262,
-"TasksCompleted": 31,
+"LoadAverage": 2.742188,
+"TasksCompleted": 37,
 "System": 3,
 "Enabled": 1
 }
@@ -401,10 +176,10 @@
 {
 "ID": "ABLACK",
 "Class": 1,
-"Task": 55341,
-"CPUCount": 3,
-"LoadAverage": 10.550000,
-"TasksCompleted": 13,
+"Task": 55345,
+"CPUCount": 4,
+"LoadAverage": 11.640000,
+"TasksCompleted": 14,
 "System": 6,
 "Enabled": 1
 }
