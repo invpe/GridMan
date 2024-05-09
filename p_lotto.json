@@ -1,1 +1,10 @@
-Hq/ç˚
+{
+"Start": 1715155443,
+"Epoch": 1715283734,
+"BatchTasks": 20,
+"BatchTasksCompleted": 3,
+"TotalBatches": 214,
+"TotalTasksCompleted": 1876,
+"TaskIterations": 20000000,
+"Found": 0
+}
