@@ -1,97 +1,70 @@
 {
-"CPU": 3.439639,
+"CPU": 1.823047,
 "Starttime": 1715326553,
-"Epoch": 1715354993,
+"Epoch": 1715358593,
 "Version": "0.8",
 "Throttled": 1,
-"Utilization": 40.000000,
+"Utilization": 22.222223,
 "Connections": 2,
-"NodesCount": 10,
-"TasksNew": 3,
-"TasksCompleted": 2,
-"TasksRunning": 4,
+"NodesCount": 9,
+"TasksNew": 0,
+"TasksCompleted": 4,
+"TasksRunning": 2,
 "TasksFailed": 0,
-"TasksCount": 9,
+"TasksCount": 6,
 "Tasks":[
 {
-"ID": 63586,
-"Binary": "HELIUM_MNEMONICS",
-"State": 2,
-"Progress": 0,
-"Start": 1715354875,
-"End": 0
-}
-,
-{
-"ID": 63588,
-"Binary": "HELIUM_MNEMONICS",
-"State": 2,
-"Progress": 0,
-"Start": 1715354875,
-"End": 0
-}
-,
-{
-"ID": 63589,
+"ID": 63736,
 "Binary": "HELIUM_MNEMONICS",
 "State": 4,
 "Progress": 100,
-"Start": 1715354876,
-"End": 1715354955
+"Start": 1715358384,
+"End": 1715358549
 }
 ,
 {
-"ID": 63590,
-"Binary": "HELIUM_MNEMONICS",
-"State": 1,
-"Progress": 0,
-"Start": 0,
-"End": 0
-}
-,
-{
-"ID": 63591,
-"Binary": "HELIUM_MNEMONICS",
-"State": 1,
-"Progress": 0,
-"Start": 0,
-"End": 0
-}
-,
-{
-"ID": 63592,
+"ID": 63738,
 "Binary": "HELIUM_MNEMONICS",
 "State": 4,
 "Progress": 100,
-"Start": 1715354924,
-"End": 1715354972
+"Start": 1715358384,
+"End": 1715358551
 }
 ,
 {
-"ID": 63593,
+"ID": 63740,
+"Binary": "HELIUM_MNEMONICS",
+"State": 4,
+"Progress": 100,
+"Start": 1715358464,
+"End": 1715358544
+}
+,
+{
+"ID": 63742,
 "Binary": "HELIUM_MNEMONICS",
 "State": 2,
 "Progress": 0,
-"Start": 1715354955,
+"Start": 1715358549,
 "End": 0
 }
 ,
 {
-"ID": 63594,
-"Binary": "HELIUM_MNEMONICS",
-"State": 1,
-"Progress": 0,
-"Start": 0,
-"End": 0
-}
-,
-{
-"ID": 63595,
+"ID": 63744,
 "Binary": "HELIUM_MNEMONICS",
 "State": 2,
 "Progress": 0,
-"Start": 1715354972,
+"Start": 1715358544,
 "End": 0
+}
+,
+{
+"ID": 63745,
+"Binary": "HELIUM_MNEMONICS",
+"State": 4,
+"Progress": 100,
+"Start": 1715358520,
+"End": 1715358569
 }
 ],
 "Nodes":[
@@ -101,7 +74,7 @@
 "Task": 0,
 "CPUCount": 1,
 "LoadAverage": 0.000000,
-"TasksCompleted": 50,
+"TasksCompleted": 54,
 "System": 5,
 "Enabled": 1
 }
@@ -111,8 +84,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 0.001953,
-"TasksCompleted": 74,
+"LoadAverage": 0.095215,
+"TasksCompleted": 82,
 "System": 5,
 "Enabled": 1
 }
@@ -122,8 +95,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 0.001953,
-"TasksCompleted": 75,
+"LoadAverage": 0.095215,
+"TasksCompleted": 83,
 "System": 5,
 "Enabled": 1
 }
@@ -133,8 +106,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 0.440000,
-"TasksCompleted": 86,
+"LoadAverage": 0.110000,
+"TasksCompleted": 94,
 "System": 5,
 "Enabled": 1
 }
@@ -145,7 +118,7 @@
 "Task": 0,
 "CPUCount": 1,
 "LoadAverage": 0.000000,
-"TasksCompleted": 67,
+"TasksCompleted": 75,
 "System": 5,
 "Enabled": 1
 }
@@ -153,10 +126,10 @@
 {
 "ID": "PI_KNS",
 "Class": 1,
-"Task": 63588,
+"Task": 0,
 "CPUCount": 4,
-"LoadAverage": 4.530000,
-"TasksCompleted": 155,
+"LoadAverage": 3.690000,
+"TasksCompleted": 174,
 "System": 6,
 "Enabled": 1
 }
@@ -164,10 +137,10 @@
 {
 "ID": "PI_KNS",
 "Class": 1,
-"Task": 63586,
+"Task": 63742,
 "CPUCount": 4,
-"LoadAverage": 4.530000,
-"TasksCompleted": 156,
+"LoadAverage": 3.690000,
+"TasksCompleted": 177,
 "System": 6,
 "Enabled": 1
 }
@@ -175,10 +148,10 @@
 {
 "ID": "AWHITE",
 "Class": 1,
-"Task": 63595,
+"Task": 0,
 "CPUCount": 8,
 "LoadAverage": 0.000000,
-"TasksCompleted": 354,
+"TasksCompleted": 400,
 "System": 7,
 "Enabled": 1
 }
@@ -186,10 +159,10 @@
 {
 "ID": "ABLACK",
 "Class": 1,
-"Task": 63593,
+"Task": 63744,
 "CPUCount": 3,
-"LoadAverage": 10.590000,
-"TasksCompleted": 243,
+"LoadAverage": 11.120000,
+"TasksCompleted": 276,
 "System": 6,
 "Enabled": 1
 }
@@ -199,7 +172,7 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.154785,
+"LoadAverage": 0.018066,
 "TasksCompleted": 0,
 "System": 5,
 "Enabled": 1
@@ -210,20 +183,9 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.154785,
+"LoadAverage": 0.016602,
 "TasksCompleted": 0,
 "System": 5,
-"Enabled": 1
-}
-,
-{
-"ID": "IMAC1",
-"Class": 1,
-"Task": 0,
-"CPUCount": 8,
-"LoadAverage": 1.200195,
-"TasksCompleted": 0,
-"System": 3,
 "Enabled": 1
 }
 ]}
