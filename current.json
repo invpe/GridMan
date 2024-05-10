@@ -1,78 +1,60 @@
 {
-"CPU": 3.028782,
+"CPU": 2.124101,
 "Starttime": 1715326553,
-"Epoch": 1715329793,
+"Epoch": 1715333993,
 "Version": "0.8",
 "Throttled": 0,
-"Utilization": 44.444447,
+"Utilization": 30.000002,
 "Connections": 2,
-"NodesCount": 9,
-"TasksNew": 1,
+"NodesCount": 10,
+"TasksNew": 0,
 "TasksCompleted": 2,
-"TasksRunning": 4,
+"TasksRunning": 3,
 "TasksFailed": 0,
-"TasksCount": 7,
+"TasksCount": 5,
 "Tasks":[
 {
-"ID": 62386,
-"Binary": "HELIUM_MNEMONICS",
-"State": 2,
-"Progress": 0,
-"Start": 1715329632,
-"End": 0
-}
-,
-{
-"ID": 62388,
+"ID": 62598,
 "Binary": "HELIUM_MNEMONICS",
 "State": 4,
 "Progress": 100,
-"Start": 1715329632,
-"End": 1715329786
+"Start": 1715333866,
+"End": 1715333948
 }
 ,
 {
-"ID": 62390,
+"ID": 62600,
 "Binary": "HELIUM_MNEMONICS",
 "State": 2,
 "Progress": 0,
-"Start": 1715329773,
+"Start": 1715333875,
 "End": 0
 }
 ,
 {
-"ID": 62391,
+"ID": 62603,
 "Binary": "HELIUM_MNEMONICS",
 "State": 2,
 "Progress": 0,
-"Start": 1715329712,
+"Start": 1715333878,
 "End": 0
 }
 ,
 {
-"ID": 62392,
-"Binary": "HELIUM_MNEMONICS",
-"State": 1,
-"Progress": 0,
-"Start": 0,
-"End": 0
-}
-,
-{
-"ID": 62393,
+"ID": 62604,
 "Binary": "HELIUM_MNEMONICS",
 "State": 4,
 "Progress": 100,
-"Start": 1715329725,
-"End": 1715329773
+"Start": 1715333902,
+"End": 1715333950
 }
 ,
 {
-"ID": 62394,
+"ID": 62605,
 "Binary": "HELIUM_MNEMONICS",
 "State": 2,
 "Progress": 0,
-"Start": 1715329786,
+"Start": 1715333948,
 "End": 0
 }
 ],
@@ -82,8 +64,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.000000,
-"TasksCompleted": 9,
+"LoadAverage": 0.100000,
+"TasksCompleted": 17,
 "System": 5,
 "Enabled": 1
 }
@@ -93,108 +75,4 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 0.056152,
-"TasksCompleted": 12,
-"System": 5,
-"Enabled": 1
-}
-,
-{
-"ID": "J_PROX",
-"Class": 1,
-"Task": 0,
-"CPUCount": 2,
-"LoadAverage": 0.056152,
-"TasksCompleted": 12,
-"System": 5,
-"Enabled": 1
-}
-,
-{
-"ID": "L2_PROD",
-"Class": 1,
-"Task": 0,
-"CPUCount": 2,
-"LoadAverage": 0.110000,
-"TasksCompleted": 13,
-"System": 5,
-"Enabled": 1
-}
-,
-{
-"ID": "GS_EXPLORER",
-"Class": 1,
-"Task": 0,
-"CPUCount": 1,
-"LoadAverage": 0.000000,
-"TasksCompleted": 11,
-"System": 5,
-"Enabled": 1
-}
-,
-{
-"ID": "PI_KNS",
-"Class": 1,
-"Task": 62394,
-"CPUCount": 4,
-"LoadAverage": 4.680000,
-"TasksCompleted": 13,
-"System": 6,
-"Enabled": 1
-}
-,
-{
-"ID": "PI_KNS",
-"Class": 1,
-"Task": 62386,
-"CPUCount": 4,
-"LoadAverage": 4.680000,
-"TasksCompleted": 15,
-"System": 6,
-"Enabled": 1
-}
-,
-{
-"ID": "AWHITE",
-"Class": 1,
-"Task": 62390,
-"CPUCount": 8,
-"LoadAverage": 0.000000,
-"TasksCompleted": 33,
-"System": 7,
-"Enabled": 1
-}
-,
-{
-"ID": "ABLACK",
-"Class": 1,
-"Task": 62391,
-"CPUCount": 3,
-"LoadAverage": 10.940000,
-"TasksCompleted": 22,
-"System": 6,
-"Enabled": 1
-}
-,
-{
-"ID": "LibClient",
-"Class": 2,
-"Task": 0,
-"CPUCount": 1,
-"LoadAverage": 0.000000,
-"TasksCompleted": 0,
-"System": 5,
-"Enabled": 1
-}
-,
-{
-"ID": "LibClient",
-"Class": 2,
-"Task": 0,
-"CPUCount": 1,
-"LoadAverage": 0.000000,
-"TasksCompleted": 0,
-"System": 5,
-"Enabled": 1
-}
-]}
+"LoadAverag
