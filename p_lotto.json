@@ -1,10 +1,10 @@
 {
-"Start": 1715155443,
-"Epoch": 1715325550,
-"BatchTasks": 20,
-"BatchTasksCompleted": 21,
-"TotalBatches": 287,
-"TotalTasksCompleted": 2493,
-"TaskIterations": 20000000,
+"Start": 1715327683,
+"Epoch": 1715327684,
+"BatchTasks": 10,
+"BatchTasksCompleted": 0,
+"TotalBatches": 0,
+"TotalTasksCompleted": 0,
+"TaskIterations": 6000000,
 "Found": 0
 }
