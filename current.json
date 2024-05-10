@@ -1,10 +1,76 @@
 {
-"Start": 1715001218,
-"Epoch": 1715107648,
-"BatchTasks": 5,
-"BatchTasksCompleted": 5,
-"TotalBatches": 1711,
-"TotalTasksCompleted": 8180,
-"TaskIterations": 1000,
-"Found": 0
+"CPU": 1.357694,
+"Starttime": 1715001162,
+"Epoch": 1715319582,
+"Version": "0.8",
+"Throttled": 54,
+"Utilization": 100.000000,
+"Connections": 2,
+"NodesCount": 9,
+"TasksNew": 22,
+"TasksCompleted": 0,
+"TasksRunning": 8,
+"TasksFailed": 27,
+"TasksCount": 57,
+"Tasks":[
+{
+"ID": 61872,
+"Binary": "BTC_LOTTERY",
+"State": 3,
+"Progress": 100,
+"Start": 1715319268,
+"End": 1715319536
 }
+,
+{
+"ID": 61876,
+"Binary": "BTC_LOTTERY",
+"State": 3,
+"Progress": 100,
+"Start": 1715319312,
+"End": 1715319536
+}
+,
+{
+"ID": 61877,
+"Binary": "BTC_LOTTERY",
+"State": 3,
+"Progress": 100,
+"Start": 1715319269,
+"End": 1715319536
+}
+,
+{
+"ID": 61880,
+"Binary": "BTC_LOTTERY",
+"State": 3,
+"Progress": 0,
+"Start": 1715319334,
+"End": 0
+}
+,
+{
+"ID": 61881,
+"Binary": "BTC_LOTTERY",
+"State": 3,
+"Progress": 100,
+"Start": 1715319436,
+"End": 1715319536
+}
+,
+{
+"ID": 61882,
+"Binary": "BTC_LOTTERY",
+"State": 3,
+"Progress": 100,
+"Start": 1715319481,
+"End": 1715319536
+}
+,
+{
+"ID": 61885,
+"Binary": "BTC_LOTTERY",
+"State": 3,
+"Progress": 100,
+"Start": 1715319412,
+"End": 1
