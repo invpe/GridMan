@@ -1,36 +1,10 @@
 {
-"CPU": 3.574411,
-"Starttime": 1715326553,
-"Epoch": 1715467793,
-"Version": "0.8",
-"Throttled": 12,
-"Utilization": 44.444447,
-"Connections": 2,
-"NodesCount": 9,
-"TasksNew": 4,
-"TasksCompleted": 1,
-"TasksRunning": 4,
-"TasksFailed": 0,
-"TasksCount": 9,
-"Tasks":[
-{
-"ID": 69027,
-"Binary": "HELIUM_MNEMONICS",
-"State": 2,
-"Progress": 0,
-"Start": 1715467659,
-"End": 0
+"Start": 1715001218,
+"Epoch": 1715107648,
+"BatchTasks": 5,
+"BatchTasksCompleted": 5,
+"TotalBatches": 1711,
+"TotalTasksCompleted": 8180,
+"TaskIterations": 1000,
+"Found": 0
 }
-,
-{
-"ID": 69028,
-"Binary": "HELIUM_MNEMONICS",
-"State": 2,
-"Progress": 0,
-"Start": 1715467659,
-"End": 0
-}
-,
-{
-"ID": 69029,
-"Binary": "HELIUM_MNEMON
