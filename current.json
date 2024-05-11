@@ -1,42 +1,24 @@
 {
-"CPU": 1.506528,
+"CPU": 1.622888,
 "Starttime": 1715326553,
-"Epoch": 1715455793,
+"Epoch": 1715459993,
 "Version": "0.8",
-"Throttled": 10,
-"Utilization": 11.111112,
+"Throttled": 11,
+"Utilization": 10.000000,
 "Connections": 2,
-"NodesCount": 9,
+"NodesCount": 10,
 "TasksNew": 0,
-"TasksCompleted": 2,
+"TasksCompleted": 0,
 "TasksRunning": 1,
 "TasksFailed": 0,
-"TasksCount": 3,
+"TasksCount": 1,
 "Tasks":[
 {
-"ID": 68469,
-"Binary": "HELIUM_MNEMONICS",
-"State": 4,
-"Progress": 100,
-"Start": 1715455690,
-"End": 1715455772
-}
-,
-{
-"ID": 68470,
-"Binary": "HELIUM_MNEMONICS",
-"State": 4,
-"Progress": 100,
-"Start": 1715455703,
-"End": 1715455751
-}
-,
-{
-"ID": 68473,
+"ID": 68628,
 "Binary": "HELIUM_MNEMONICS",
 "State": 2,
 "Progress": 0,
-"Start": 1715455709,
+"Start": 1715459186,
 "End": 0
 }
 ],
@@ -46,8 +28,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.010000,
-"TasksCompleted": 241,
+"LoadAverage": 0.000000,
+"TasksCompleted": 250,
 "System": 5,
 "Enabled": 1
 }
@@ -57,8 +39,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 0.200000,
-"TasksCompleted": 399,
+"LoadAverage": 1.080000,
+"TasksCompleted": 415,
 "System": 5,
 "Enabled": 1
 }
@@ -69,7 +51,7 @@
 "Task": 0,
 "CPUCount": 1,
 "LoadAverage": 0.000000,
-"TasksCompleted": 319,
+"TasksCompleted": 329,
 "System": 5,
 "Enabled": 1
 }
@@ -79,8 +61,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 4,
-"LoadAverage": 3.010000,
-"TasksCompleted": 711,
+"LoadAverage": 0.510000,
+"TasksCompleted": 731,
 "System": 6,
 "Enabled": 1
 }
@@ -88,77 +70,7 @@
 {
 "ID": "PI_KNS",
 "Class": 1,
-"Task": 68473,
+"Task": 0,
 "CPUCount": 4,
-"LoadAverage": 3.010000,
-"TasksCompleted": 721,
-"System": 6,
-"Enabled": 1
-}
-,
-{
-"ID": "AWHITE",
-"Class": 1,
-"Task": 0,
-"CPUCount": 8,
-"LoadAverage": 0.000000,
-"TasksCompleted": 1645,
-"System": 7,
-"Enabled": 1
-}
-,
-{
-"ID": "ABLACK",
-"Class": 1,
-"Task": 0,
-"CPUCount": 1,
-"LoadAverage": 11.010000,
-"TasksCompleted": 1171,
-"System": 6,
-"Enabled": 1
-}
-,
-{
-"ID": "LibClient",
-"Class": 2,
-"Task": 0,
-"CPUCount": 1,
-"LoadAverage": 0.089355,
-"TasksCompleted": 0,
-"System": 5,
-"Enabled": 1
-}
-,
-{
-"ID": "J_PROX",
-"Class": 1,
-"Task": 0,
-"CPUCount": 2,
-"LoadAverage": 0.026855,
-"TasksCompleted": 20,
-"System": 5,
-"Enabled": 1
-}
-,
-{
-"ID": "J_PROX",
-"Class": 1,
-"Task": 0,
-"CPUCount": 2,
-"LoadAverage": 0.026855,
-"TasksCompleted": 21,
-"System": 5,
-"Enabled": 1
-}
-,
-{
-"ID": "LibClient",
-"Class": 2,
-"Task": 0,
-"CPUCount": 1,
-"LoadAverage": 0.097168,
-"TasksCompleted": 0,
-"System": 5,
-"Enabled": 1
-}
-]}
+"LoadAverage": 0.510000,
+"TasksCompleted": 744,
