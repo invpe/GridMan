@@ -1,12 +1,12 @@
 {
-"CPU": 1.622888,
+"CPU": 1.489540,
 "Starttime": 1715326553,
-"Epoch": 1715459993,
+"Epoch": 1715463593,
 "Version": "0.8",
 "Throttled": 11,
-"Utilization": 10.000000,
+"Utilization": 11.111112,
 "Connections": 2,
-"NodesCount": 10,
+"NodesCount": 9,
 "TasksNew": 0,
 "TasksCompleted": 0,
 "TasksRunning": 1,
@@ -14,11 +14,11 @@
 "TasksCount": 1,
 "Tasks":[
 {
-"ID": 68628,
+"ID": 68766,
 "Binary": "HELIUM_MNEMONICS",
 "State": 2,
 "Progress": 0,
-"Start": 1715459186,
+"Start": 1715462896,
 "End": 0
 }
 ],
@@ -28,8 +28,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.000000,
-"TasksCompleted": 250,
+"LoadAverage": 0.100000,
+"TasksCompleted": 257,
 "System": 5,
 "Enabled": 1
 }
@@ -39,8 +39,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 1.080000,
-"TasksCompleted": 415,
+"LoadAverage": 1.380000,
+"TasksCompleted": 428,
 "System": 5,
 "Enabled": 1
 }
@@ -50,8 +50,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.000000,
-"TasksCompleted": 329,
+"LoadAverage": 0.620000,
+"TasksCompleted": 338,
 "System": 5,
 "Enabled": 1
 }
@@ -61,8 +61,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 4,
-"LoadAverage": 0.510000,
-"TasksCompleted": 731,
+"LoadAverage": 0.440000,
+"TasksCompleted": 745,
 "System": 6,
 "Enabled": 1
 }
@@ -72,5 +72,5 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 4,
-"LoadAverage": 0.510000,
-"TasksCompleted": 744,
+"LoadAverage": 0.440000,
+"TasksCompleted": 759,
