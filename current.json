@@ -1,77 +1,75 @@
 {
-"CPU": 1.706542,
+"CPU": 2.225197,
 "Starttime": 1715326553,
-"Epoch": 1715409593,
+"Epoch": 1715410793,
 "Version": "0.8",
-"Throttled": 6,
-"Utilization": 88.888893,
+"Throttled": 7,
+"Utilization": 44.444447,
 "Connections": 2,
 "NodesCount": 9,
-"TasksNew": 4,
-"TasksCompleted": 3,
-"TasksRunning": 8,
+"TasksNew": 0,
+"TasksCompleted": 5,
+"TasksRunning": 4,
 "TasksFailed": 0,
-"TasksCount": 15,
+"TasksCount": 9,
 "Tasks":[
 {
-"ID": 66210,
-"Binary": "HELIUM_MNEMONICS",
-"State": 4,
-"Progress": 100,
-"Start": 1715409487,
-"End": 1715409534
-}
-,
-{
-"ID": 66211,
-"Binary": "HELIUM_MNEMONICS",
-"State": 4,
-"Progress": 100,
-"Start": 1715409468,
-"End": 1715409550
-}
-,
-{
-"ID": 66212,
-"Binary": "HELIUM_MNEMONICS",
-"State": 2,
-"Progress": 0,
-"Start": 1715409464,
-"End": 0
-}
-,
-{
-"ID": 66213,
-"Binary": "HELIUM_MNEMONICS",
-"State": 2,
-"Progress": 0,
-"Start": 1715409471,
-"End": 0
-}
-,
-{
-"ID": 66214,
-"Binary": "HELIUM_MNEMONICS",
-"State": 4,
-"Progress": 100,
-"Start": 1715409534,
-"End": 1715409581
-}
-,
-{
-"ID": 66216,
+"ID": 66273,
 "Binary": "BTC_LOTTERY",
+"State": 4,
+"Progress": 100,
+"Start": 1715410630,
+"End": 1715410739
+}
+,
+{
+"ID": 66276,
+"Binary": "HELIUM_MNEMONICS",
+"State": 4,
+"Progress": 100,
+"Start": 1715410583,
+"End": 1715410736
+}
+,
+{
+"ID": 66277,
+"Binary": "HELIUM_MNEMONICS",
+"State": 4,
+"Progress": 100,
+"Start": 1715410583,
+"End": 1715410749
+}
+,
+{
+"ID": 66278,
+"Binary": "HELIUM_MNEMONICS",
+"State": 4,
+"Progress": 100,
+"Start": 1715410721,
+"End": 1715410766
+}
+,
+{
+"ID": 66280,
+"Binary": "HELIUM_MNEMONICS",
 "State": 2,
 "Progress": 0,
-"Start": 1715409588,
+"Start": 1715410736,
 "End": 0
 }
 ,
 {
-"ID": 66217,
-"Binary": "BTC_LOTTERY",
+"ID": 66281,
+"Binary": "HELIUM_MNEMONICS",
 "State": 2,
 "Progress": 0,
-"Start": 1715409588,
+"Start": 1715410749,
 "End": 0
 }
+,
+{
+"ID": 66282,
+"Binary": "HELIUM_MNEMONICS",
+"State": 4,
+"Progress": 100,
+"Start": 171541
