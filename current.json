@@ -1,79 +1,97 @@
 {
-"CPU": 2.461075,
+"CPU": 3.509945,
 "Starttime": 1715326553,
-"Epoch": 1715513393,
+"Epoch": 1715516993,
 "Version": "0.8",
 "Throttled": 14,
-"Utilization": 44.444447,
+"Utilization": 40.000000,
 "Connections": 2,
-"NodesCount": 9,
-"TasksNew": 0,
-"TasksCompleted": 3,
+"NodesCount": 10,
+"TasksNew": 3,
+"TasksCompleted": 2,
 "TasksRunning": 4,
 "TasksFailed": 0,
-"TasksCount": 7,
+"TasksCount": 9,
 "Tasks":[
 {
-"ID": 70567,
+"ID": 70687,
+"Binary": "HELIUM_MNEMONICS",
+"State": 2,
+"Progress": 0,
+"Start": 1715516874,
+"End": 0
+}
+,
+{
+"ID": 70688,
 "Binary": "HELIUM_MNEMONICS",
 "State": 4,
 "Progress": 100,
-"Start": 1715513183,
-"End": 1715513343
+"Start": 1715516874,
+"End": 1715516954
 }
 ,
 {
-"ID": 70568,
+"ID": 70689,
 "Binary": "HELIUM_MNEMONICS",
 "State": 2,
 "Progress": 0,
-"Start": 1715513183,
+"Start": 1715516874,
 "End": 0
 }
 ,
 {
-"ID": 70569,
+"ID": 70690,
+"Binary": "HELIUM_MNEMONICS",
+"State": 2,
+"Progress": 0,
+"Start": 1715516970,
+"End": 0
+}
+,
+{
+"ID": 70691,
+"Binary": "HELIUM_MNEMONICS",
+"State": 2,
+"Progress": 0,
+"Start": 1715516954,
+"End": 0
+}
+,
+{
+"ID": 70692,
+"Binary": "HELIUM_MNEMONICS",
+"State": 1,
+"Progress": 0,
+"Start": 0,
+"End": 0
+}
+,
+{
+"ID": 70693,
+"Binary": "HELIUM_MNEMONICS",
+"State": 1,
+"Progress": 0,
+"Start": 0,
+"End": 0
+}
+,
+{
+"ID": 70694,
+"Binary": "HELIUM_MNEMONICS",
+"State": 1,
+"Progress": 0,
+"Start": 0,
+"End": 0
+}
+,
+{
+"ID": 70695,
 "Binary": "HELIUM_MNEMONICS",
 "State": 4,
 "Progress": 100,
-"Start": 1715513183,
-"End": 1715513347
-}
-,
-{
-"ID": 70570,
-"Binary": "HELIUM_MNEMONICS",
-"State": 2,
-"Progress": 0,
-"Start": 1715513343,
-"End": 0
-}
-,
-{
-"ID": 70572,
-"Binary": "HELIUM_MNEMONICS",
-"State": 2,
-"Progress": 0,
-"Start": 1715513371,
-"End": 0
-}
-,
-{
-"ID": 70574,
-"Binary": "HELIUM_MNEMONICS",
-"State": 2,
-"Progress": 0,
-"Start": 1715513347,
-"End": 0
-}
-,
-{
-"ID": 70575,
-"Binary": "HELIUM_MNEMONICS",
-"State": 4,
-"Progress": 100,
-"Start": 1715513323,
-"End": 1715513371
+"Start": 1715516922,
+"End": 1715516970
 }
 ],
 "Nodes":[
@@ -83,7 +101,7 @@
 "Task": 0,
 "CPUCount": 1,
 "LoadAverage": 0.000000,
-"TasksCompleted": 361,
+"TasksCompleted": 366,
 "System": 5,
 "Enabled": 1
 }
@@ -93,8 +111,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 0.050000,
-"TasksCompleted": 598,
+"LoadAverage": 0.390000,
+"TasksCompleted": 608,
 "System": 5,
 "Enabled": 1
 }
@@ -105,7 +123,7 @@
 "Task": 0,
 "CPUCount": 1,
 "LoadAverage": 0.000000,
-"TasksCompleted": 467,
+"TasksCompleted": 476,
 "System": 5,
 "Enabled": 1
 }
@@ -113,10 +131,10 @@
 {
 "ID": "PI_KNS",
 "Class": 1,
-"Task": 70574,
+"Task": 70687,
 "CPUCount": 4,
-"LoadAverage": 4.360000,
-"TasksCompleted": 924,
+"LoadAverage": 4.700000,
+"TasksCompleted": 937,
 "System": 6,
 "Enabled": 1
 }
@@ -124,10 +142,10 @@
 {
 "ID": "PI_KNS",
 "Class": 1,
-"Task": 70570,
+"Task": 70689,
 "CPUCount": 4,
-"LoadAverage": 4.360000,
-"TasksCompleted": 943,
+"LoadAverage": 4.700000,
+"TasksCompleted": 957,
 "System": 6,
 "Enabled": 1
 }
@@ -135,10 +153,10 @@
 {
 "ID": "AWHITE",
 "Class": 1,
-"Task": 70572,
+"Task": 70690,
 "CPUCount": 8,
 "LoadAverage": 0.000000,
-"TasksCompleted": 2203,
+"TasksCompleted": 2239,
 "System": 7,
 "Enabled": 1
 }
@@ -148,7 +166,7 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.016602,
+"LoadAverage": 0.100586,
 "TasksCompleted": 0,
 "System": 5,
 "Enabled": 1
@@ -159,7 +177,7 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.016602,
+"LoadAverage": 0.100586,
 "TasksCompleted": 0,
 "System": 5,
 "Enabled": 1
@@ -171,7 +189,7 @@
 "Task": 0,
 "CPUCount": 2,
 "LoadAverage": 0.000000,
-"TasksCompleted": 30,
+"TasksCompleted": 39,
 "System": 5,
 "Enabled": 1
 }
@@ -182,7 +200,7 @@
 "Task": 0,
 "CPUCount": 2,
 "LoadAverage": 0.000000,
-"TasksCompleted": 30,
+"TasksCompleted": 39,
 "System": 5,
 "Enabled": 1
 }
@@ -190,11 +208,22 @@
 {
 "ID": "ABLACK",
 "Class": 1,
-"Task": 70568,
-"CPUCount": 4,
-"LoadAverage": 10.580000,
-"TasksCompleted": 24,
+"Task": 70691,
+"CPUCount": 3,
+"LoadAverage": 10.630000,
+"TasksCompleted": 33,
 "System": 6,
+"Enabled": 1
+}
+,
+{
+"ID": "IMAC1",
+"Class": 1,
+"Task": 0,
+"CPUCount": 8,
+"LoadAverage": 2.286133,
+"TasksCompleted": 0,
+"System": 3,
 "Enabled": 1
 }
 ]}
