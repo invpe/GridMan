@@ -1,7 +1,7 @@
 {
-"CPU": 1.439090,
+"CPU": 1.339136,
 "Starttime": 1715326553,
-"Epoch": 1715477393,
+"Epoch": 1715480993,
 "Version": "0.8",
 "Throttled": 12,
 "Utilization": 11.111112,
@@ -14,11 +14,11 @@
 "TasksCount": 1,
 "Tasks":[
 {
-"ID": 69308,
+"ID": 69416,
 "Binary": "HELIUM_MNEMONICS",
 "State": 2,
 "Progress": 0,
-"Start": 1715476569,
+"Start": 1715480599,
 "End": 0
 }
 ],
@@ -28,8 +28,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.000000,
-"TasksCompleted": 294,
+"LoadAverage": 0.020000,
+"TasksCompleted": 301,
 "System": 5,
 "Enabled": 1
 }
@@ -39,8 +39,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 0.120000,
-"TasksCompleted": 482,
+"LoadAverage": 0.300000,
+"TasksCompleted": 490,
 "System": 5,
 "Enabled": 1
 }
@@ -50,8 +50,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.000000,
-"TasksCompleted": 380,
+"LoadAverage": 0.020000,
+"TasksCompleted": 384,
 "System": 5,
 "Enabled": 1
 }
@@ -61,8 +61,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 4,
-"LoadAverage": 0.360000,
-"TasksCompleted": 793,
+"LoadAverage": 1.680000,
+"TasksCompleted": 805,
 "System": 6,
 "Enabled": 1
 }
@@ -72,8 +72,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 4,
-"LoadAverage": 0.360000,
-"TasksCompleted": 810,
+"LoadAverage": 1.680000,
+"TasksCompleted": 826,
 "System": 6,
 "Enabled": 1
 }
@@ -84,7 +84,7 @@
 "Task": 0,
 "CPUCount": 8,
 "LoadAverage": 0.000000,
-"TasksCompleted": 1854,
+"TasksCompleted": 1888,
 "System": 7,
 "Enabled": 1
 }
@@ -94,7 +94,7 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.000000,
+"LoadAverage": 0.004395,
 "TasksCompleted": 0,
 "System": 5,
 "Enabled": 1
@@ -105,8 +105,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 0.000977,
-"TasksCompleted": 93,
+"LoadAverage": 0.117676,
+"TasksCompleted": 101,
 "System": 5,
 "Enabled": 1
 }
@@ -116,8 +116,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 0.000977,
-"TasksCompleted": 91,
+"LoadAverage": 0.117676,
+"TasksCompleted": 99,
 "System": 5,
 "Enabled": 1
 }
@@ -127,7 +127,7 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.000000,
+"LoadAverage": 0.004883,
 "TasksCompleted": 0,
 "System": 5,
 "Enabled": 1
@@ -136,10 +136,10 @@
 {
 "ID": "ABLACK",
 "Class": 1,
-"Task": 69308,
+"Task": 69416,
 "CPUCount": 4,
-"LoadAverage": 11.410000,
-"TasksCompleted": 1,
+"LoadAverage": 11.160000,
+"TasksCompleted": 12,
 "System": 6,
 "Enabled": 1
 }
