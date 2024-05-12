@@ -1,33 +1,24 @@
 {
-"CPU": 1.623159,
+"CPU": 1.439090,
 "Starttime": 1715326553,
-"Epoch": 1715474393,
+"Epoch": 1715477393,
 "Version": "0.8",
 "Throttled": 12,
-"Utilization": 22.222223,
+"Utilization": 11.111112,
 "Connections": 2,
 "NodesCount": 9,
 "TasksNew": 0,
 "TasksCompleted": 0,
-"TasksRunning": 2,
+"TasksRunning": 1,
 "TasksFailed": 0,
-"TasksCount": 2,
+"TasksCount": 1,
 "Tasks":[
 {
-"ID": 69230,
+"ID": 69308,
 "Binary": "HELIUM_MNEMONICS",
 "State": 2,
 "Progress": 0,
-"Start": 1715474282,
-"End": 0
-}
-,
-{
-"ID": 69232,
-"Binary": "HELIUM_MNEMONICS",
-"State": 2,
-"Progress": 0,
-"Start": 1715474271,
+"Start": 1715476569,
 "End": 0
 }
 ],
@@ -38,7 +29,7 @@
 "Task": 0,
 "CPUCount": 1,
 "LoadAverage": 0.000000,
-"TasksCompleted": 287,
+"TasksCompleted": 294,
 "System": 5,
 "Enabled": 1
 }
@@ -48,8 +39,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 0.290000,
-"TasksCompleted": 473,
+"LoadAverage": 0.120000,
+"TasksCompleted": 482,
 "System": 5,
 "Enabled": 1
 }
@@ -60,7 +51,7 @@
 "Task": 0,
 "CPUCount": 1,
 "LoadAverage": 0.000000,
-"TasksCompleted": 373,
+"TasksCompleted": 380,
 "System": 5,
 "Enabled": 1
 }
@@ -68,9 +59,88 @@
 {
 "ID": "PI_KNS",
 "Class": 1,
-"Task": 69230,
+"Task": 0,
 "CPUCount": 4,
-"LoadAverage": 2.780000,
-"TasksCompleted": 783,
+"LoadAverage": 0.360000,
+"TasksCompleted": 793,
 "System": 6,
-"Enabled": 
+"Enabled": 1
+}
+,
+{
+"ID": "PI_KNS",
+"Class": 1,
+"Task": 0,
+"CPUCount": 4,
+"LoadAverage": 0.360000,
+"TasksCompleted": 810,
+"System": 6,
+"Enabled": 1
+}
+,
+{
+"ID": "AWHITE",
+"Class": 1,
+"Task": 0,
+"CPUCount": 8,
+"LoadAverage": 0.000000,
+"TasksCompleted": 1854,
+"System": 7,
+"Enabled": 1
+}
+,
+{
+"ID": "LibClient",
+"Class": 2,
+"Task": 0,
+"CPUCount": 1,
+"LoadAverage": 0.000000,
+"TasksCompleted": 0,
+"System": 5,
+"Enabled": 1
+}
+,
+{
+"ID": "J_PROX",
+"Class": 1,
+"Task": 0,
+"CPUCount": 2,
+"LoadAverage": 0.000977,
+"TasksCompleted": 93,
+"System": 5,
+"Enabled": 1
+}
+,
+{
+"ID": "J_PROX",
+"Class": 1,
+"Task": 0,
+"CPUCount": 2,
+"LoadAverage": 0.000977,
+"TasksCompleted": 91,
+"System": 5,
+"Enabled": 1
+}
+,
+{
+"ID": "LibClient",
+"Class": 2,
+"Task": 0,
+"CPUCount": 1,
+"LoadAverage": 0.000000,
+"TasksCompleted": 0,
+"System": 5,
+"Enabled": 1
+}
+,
+{
+"ID": "ABLACK",
+"Class": 1,
+"Task": 69308,
+"CPUCount": 4,
+"LoadAverage": 11.410000,
+"TasksCompleted": 1,
+"System": 6,
+"Enabled": 1
+}
+]}
