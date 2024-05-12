@@ -1,25 +1,43 @@
 {
-"CPU": 1.489041,
+"CPU": 1.439331,
 "Starttime": 1715326553,
-"Epoch": 1715498993,
+"Epoch": 1715500793,
 "Version": "0.8",
 "Throttled": 13,
 "Utilization": 11.111112,
 "Connections": 2,
 "NodesCount": 9,
 "TasksNew": 0,
-"TasksCompleted": 0,
+"TasksCompleted": 2,
 "TasksRunning": 1,
 "TasksFailed": 0,
-"TasksCount": 1,
+"TasksCount": 3,
 "Tasks":[
 {
-"ID": 70076,
+"ID": 70117,
 "Binary": "HELIUM_MNEMONICS",
 "State": 2,
 "Progress": 0,
-"Start": 1715498545,
+"Start": 1715500417,
 "End": 0
+}
+,
+{
+"ID": 70121,
+"Binary": "HELIUM_MNEMONICS",
+"State": 4,
+"Progress": 100,
+"Start": 1715500582,
+"End": 1715500746
+}
+,
+{
+"ID": 70123,
+"Binary": "HELIUM_MNEMONICS",
+"State": 4,
+"Progress": 100,
+"Start": 1715500582,
+"End": 1715500747
 }
 ],
 "Nodes":[
@@ -39,7 +57,7 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 0.310000,
+"LoadAverage": 0.070000,
 "TasksCompleted": 557,
 "System": 5,
 "Enabled": 1
@@ -57,90 +75,4 @@
 }
 ,
 {
-"ID": "PI_KNS",
-"Class": 1,
-"Task": 0,
-"CPUCount": 4,
-"LoadAverage": 0.930000,
-"TasksCompleted": 869,
-"System": 6,
-"Enabled": 1
-}
-,
-{
-"ID": "PI_KNS",
-"Class": 1,
-"Task": 0,
-"CPUCount": 4,
-"LoadAverage": 0.930000,
-"TasksCompleted": 890,
-"System": 6,
-"Enabled": 1
-}
-,
-{
-"ID": "AWHITE",
-"Class": 1,
-"Task": 0,
-"CPUCount": 8,
-"LoadAverage": 0.000000,
-"TasksCompleted": 2057,
-"System": 7,
-"Enabled": 1
-}
-,
-{
-"ID": "LibClient",
-"Class": 2,
-"Task": 0,
-"CPUCount": 1,
-"LoadAverage": 0.056152,
-"TasksCompleted": 0,
-"System": 5,
-"Enabled": 1
-}
-,
-{
-"ID": "J_PROX",
-"Class": 1,
-"Task": 0,
-"CPUCount": 2,
-"LoadAverage": 0.000000,
-"TasksCompleted": 162,
-"System": 5,
-"Enabled": 1
-}
-,
-{
-"ID": "J_PROX",
-"Class": 1,
-"Task": 0,
-"CPUCount": 2,
-"LoadAverage": 0.000000,
-"TasksCompleted": 163,
-"System": 5,
-"Enabled": 1
-}
-,
-{
-"ID": "LibClient",
-"Class": 2,
-"Task": 0,
-"CPUCount": 1,
-"LoadAverage": 0.056152,
-"TasksCompleted": 0,
-"System": 5,
-"Enabled": 1
-}
-,
-{
-"ID": "ABLACK",
-"Class": 1,
-"Task": 70076,
-"CPUCount": 4,
-"LoadAverage": 11.590000,
-"TasksCompleted": 3,
-"System": 6,
-"Enabled": 1
-}
-]}
+"I
