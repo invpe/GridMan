@@ -1,106 +1,79 @@
 {
-"CPU": 3.151190,
+"CPU": 2.058233,
 "Starttime": 1715326553,
-"Epoch": 1715668193,
+"Epoch": 1715671793,
 "Version": "0.8",
 "Throttled": 27,
-"Utilization": 50.000000,
+"Utilization": 40.000000,
 "Connections": 2,
 "NodesCount": 10,
-"TasksNew": 3,
-"TasksCompleted": 2,
-"TasksRunning": 5,
+"TasksNew": 0,
+"TasksCompleted": 3,
+"TasksRunning": 4,
 "TasksFailed": 0,
-"TasksCount": 10,
+"TasksCount": 7,
 "Tasks":[
 {
-"ID": 78746,
+"ID": 78978,
 "Binary": "HELIUM_MNEMONICS",
 "State": 2,
 "Progress": 0,
-"Start": 1715668126,
+"Start": 1715671638,
 "End": 0
 }
 ,
 {
-"ID": 78747,
+"ID": 78979,
 "Binary": "HELIUM_MNEMONICS",
 "State": 2,
 "Progress": 0,
-"Start": 1715668126,
+"Start": 1715671638,
 "End": 0
 }
 ,
 {
-"ID": 78748,
+"ID": 78981,
 "Binary": "HELIUM_MNEMONICS",
 "State": 2,
 "Progress": 0,
-"Start": 1715668126,
+"Start": 1715671719,
 "End": 0
 }
 ,
 {
-"ID": 78749,
+"ID": 78982,
+"Binary": "HELIUM_MNEMONICS",
+"State": 2,
+"Progress": 0,
+"Start": 1715671750,
+"End": 0
+}
+,
+{
+"ID": 78983,
 "Binary": "HELIUM_MNEMONICS",
 "State": 4,
 "Progress": 100,
-"Start": 1715668126,
-"End": 1715668171
+"Start": 1715671734,
+"End": 1715671780
 }
 ,
 {
-"ID": 78750,
+"ID": 78984,
 "Binary": "HELIUM_MNEMONICS",
 "State": 4,
 "Progress": 100,
-"Start": 1715668126,
-"End": 1715668181
+"Start": 1715671686,
+"End": 1715671734
 }
 ,
 {
-"ID": 78751,
+"ID": 78985,
 "Binary": "HELIUM_MNEMONICS",
-"State": 2,
-"Progress": 0,
-"Start": 1715668181,
-"End": 0
-}
-,
-{
-"ID": 78752,
-"Binary": "HELIUM_MNEMONICS",
-"State": 2,
-"Progress": 0,
-"Start": 1715668171,
-"End": 0
-}
-,
-{
-"ID": 78753,
-"Binary": "HELIUM_MNEMONICS",
-"State": 1,
-"Progress": 0,
-"Start": 0,
-"End": 0
-}
-,
-{
-"ID": 78754,
-"Binary": "HELIUM_MNEMONICS",
-"State": 1,
-"Progress": 0,
-"Start": 0,
-"End": 0
-}
-,
-{
-"ID": 78755,
-"Binary": "HELIUM_MNEMONICS",
-"State": 1,
-"Progress": 0,
-"Start": 0,
-"End": 0
+"State": 4,
+"Progress": 100,
+"Start": 1715671694,
+"End": 1715671750
 }
 ],
 "Nodes":[
@@ -110,7 +83,7 @@
 "Task": 0,
 "CPUCount": 1,
 "LoadAverage": 0.000000,
-"TasksCompleted": 708,
+"TasksCompleted": 712,
 "System": 5,
 "Enabled": 1
 }
@@ -120,8 +93,8 @@
 "Class": 1,
 "Task": 0,
 "CPUCount": 2,
-"LoadAverage": 0.160000,
-"TasksCompleted": 1120,
+"LoadAverage": 0.310000,
+"TasksCompleted": 1124,
 "System": 5,
 "Enabled": 1
 }
@@ -132,7 +105,7 @@
 "Task": 0,
 "CPUCount": 1,
 "LoadAverage": 0.000000,
-"TasksCompleted": 894,
+"TasksCompleted": 898,
 "System": 5,
 "Enabled": 1
 }
@@ -140,10 +113,10 @@
 {
 "ID": "PI_KNS",
 "Class": 1,
-"Task": 78746,
+"Task": 78979,
 "CPUCount": 4,
-"LoadAverage": 4.490000,
-"TasksCompleted": 1747,
+"LoadAverage": 4.570000,
+"TasksCompleted": 1768,
 "System": 6,
 "Enabled": 1
 }
@@ -151,10 +124,10 @@
 {
 "ID": "PI_KNS",
 "Class": 1,
-"Task": 78747,
+"Task": 78978,
 "CPUCount": 4,
-"LoadAverage": 4.490000,
-"TasksCompleted": 1777,
+"LoadAverage": 4.570000,
+"TasksCompleted": 1798,
 "System": 6,
 "Enabled": 1
 }
@@ -164,7 +137,7 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.389160,
+"LoadAverage": 0.297363,
 "TasksCompleted": 0,
 "System": 5,
 "Enabled": 1
@@ -176,7 +149,7 @@
 "Task": 0,
 "CPUCount": 2,
 "LoadAverage": 0.000000,
-"TasksCompleted": 500,
+"TasksCompleted": 504,
 "System": 5,
 "Enabled": 1
 }
@@ -187,7 +160,7 @@
 "Task": 0,
 "CPUCount": 2,
 "LoadAverage": 0.000000,
-"TasksCompleted": 500,
+"TasksCompleted": 504,
 "System": 5,
 "Enabled": 1
 }
@@ -195,10 +168,10 @@
 {
 "ID": "AWHITE",
 "Class": 1,
-"Task": 78752,
+"Task": 0,
 "CPUCount": 8,
 "LoadAverage": 0.000000,
-"TasksCompleted": 1160,
+"TasksCompleted": 1225,
 "System": 7,
 "Enabled": 1
 }
@@ -208,7 +181,7 @@
 "Class": 2,
 "Task": 0,
 "CPUCount": 1,
-"LoadAverage": 0.389160,
+"LoadAverage": 0.297363,
 "TasksCompleted": 0,
 "System": 5,
 "Enabled": 1
@@ -217,10 +190,10 @@
 {
 "ID": "ablack",
 "Class": 1,
-"Task": 78748,
+"Task": 78981,
 "CPUCount": 3,
-"LoadAverage": 10.930000,
-"TasksCompleted": 614,
+"LoadAverage": 10.790000,
+"TasksCompleted": 657,
 "System": 6,
 "Enabled": 1
 }
@@ -228,10 +201,10 @@
 {
 "ID": "ablack2",
 "Class": 1,
-"Task": 78751,
+"Task": 78982,
 "CPUCount": 4,
 "LoadAverage": 0.000000,
-"TasksCompleted": 915,
+"TasksCompleted": 979,
 "System": 7,
 "Enabled": 1
 }
